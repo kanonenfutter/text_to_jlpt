@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= title %></title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+    <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script src="//code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
+  </head>
+  <body>
+    <div class="container">
+        <h1 class="page-header"><%= title %></h1>
+    </div>
+    <div class="container-fluid">
+        <div class="col-md-6 panel panel-default panel-body">
+            <h2 class="page-header">Input</h2>
+            <form id="form" action="http://127.0.0.1:3000/input" method="post" target="hiddenFrame">
+                <input type="text" id="input" placeholder="Japanese Text" value="「日本」という漢字による国号の表記は、日本列島が中国大陸から見て東の果て、つまり「日の本（ひのもと）」に位置することに由来するのではないかとされる[2]。近代の二つの憲法の表題は、「日本国憲法」および「大日本帝国憲法」であるが、国号を「日本国」または「日本」と直接かつ明確に規定した法令は存在しない。[疑問点 – ノート]ただし、日本工業規格 (Japanese Industrial Standard) では日本国、英語表記をJapanと規定。更に、国際規格 (ISO) では3文字略号をJPN、2文字略号をJPと規定している。また、日本国外務省から発給される旅券の表紙には「日本国」の表記と十六一重表菊[3]を提示している。">
+                <button id="submit" name="submit" class="btn btn-default">Absenden</button>
+            </form>
+
+            <h2 class="page-header">Input Text</h2>
+            <p id="raw"></p>
+            <h2 class="page-header">Occuring Kanji</h2>
+            <p id="output"></p>
+        </div>
+        <div class="col-md-6 panel panel-default panel-body">
+            <h2 class="page-header">Kanji Definitions</h2>
+            <div>
+                <ul class="list-group">
+                </ul>    
+            </div>
+        </div> 
+    </div>
+
+
+
+
+    <iframe name="hiddenFrame" class="hide"></iframe>
+    <script type="text/javascript">
+        $('#form').submit(function(event) {
+            //Verhindert das Standard-Verhalten von submit
+            event.preventDefault();
+            // Formulardaten werden als JSON Objekt gespeichert
+            var data = {
+                input: $('#input').val()
+            };
+            // POST on Resource '/input'
+            var ajaxPost = $.ajax({
+                type: 'POST',
+                url: '/input',
+                data: JSON.stringify(data),
+                contentType: 'application/json'
+            });
+            ajaxPost.done(function(data) {
+                alert('Success!' + JSON.stringify(data.response));
+                // Formular wird zurueckgesetzt
+                $('#form')[0].reset();
+                var output = JSON.stringify(data.response);
+                output=output.replace(/^"\\"/, "");
+                output=output.replace(/\\""$/, "");
+                var raw = JSON.stringify(data.raw);
+                raw=raw.replace(/^"\\"/, "");
+                raw=raw.replace(/\\""$/, "");
+                var defs = JSON.stringify(data.defs);
+                $('#output').text(output);
+
+                $('#raw').text(raw);
+
+                //Iterate through data.defs and build html
+                var buffer = "";
+                console.log(JSON.stringify(data.defs));
+
+                for (var i = 0; i < 10; i++) {
+                    var item = data.defs[i];
+                    console.log("Item " + i + ": " + item);
+                    buffer+="<li class='list-group-item'><a href='" + item.url + "'>" + item.kanji + "</a> " + item.translations+
+                        "</li>";
+
+                };
+                $('ul').html(buffer);
+            });
+            ajaxPost.fail(function(e) {
+                alert('Error: (' + JSON.stringify(e) + ')');
+            });
+        });
+    </script>
+  </body>
+</html>
