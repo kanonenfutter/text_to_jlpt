@@ -47,7 +47,7 @@ router.post('/input', function (req, res, next) {
     } else{
       dictdata = results;
       // Response to the client
-      res.json({response: unique, raw: JSON.stringify(req.body.input), defs: dictdata});
+      res.json({unique: unique, raw: JSON.stringify(req.body.input), defs: dictdata});
     }
   });
 });
