@@ -4,7 +4,7 @@
 
 This is just a lame attempt at fiddling around with non-latin texts. More precisely: Processing japanese texts and display the occuring JLPT(N5 only, atm) characters + Translation.
 
-
+![Image](https://image.ibb.co/jOstgF/Screen_Shot_2017_02_09_at_15_42_47.png)
 
 ## Requirements
 * mongodb
