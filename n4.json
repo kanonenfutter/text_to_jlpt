@@ -1,0 +1,4104 @@
+{
+ "kanji": "会",
+ "level": 4,
+ "url": "http://jisho.org/search/%E4%BC%9A%20%23kanji",
+ "translations": "meeting, meet, party, association, interview, join",
+ "kun_readings": [
+  {
+   "reading": "あ.う",
+   "url": "http://jisho.org/search/%E4%BC%9A%20%E3%81%82%E3%81%86"
+  },
+  {
+   "reading": "あ.わせる",
+   "url": "http://jisho.org/search/%E4%BC%9A%20%E3%81%82%E3%82%8F%E3%81%9B%E3%82%8B"
+  },
+  {
+   "reading": "あつ.まる",
+   "url": "http://jisho.org/search/%E4%BC%9A%20%E3%81%82%E3%81%A4%E3%81%BE%E3%82%8B"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "カイ",
+   "url": "http://jisho.org/search/%E4%BC%9A%20%E3%82%AB%E3%82%A4"
+  },
+  {
+   "reading": "エ",
+   "url": "http://jisho.org/search/%E4%BC%9A%20%E3%82%A8"
+  }
+ ]
+}
+{
+ "kanji": "同",
+ "level": 4,
+ "url": "http://jisho.org/search/%E5%90%8C%20%23kanji",
+ "translations": "same, agree, equal",
+ "kun_readings": [
+  {
+   "reading": "おな.じ",
+   "url": "http://jisho.org/search/%E5%90%8C%20%E3%81%8A%E3%81%AA%E3%81%98"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "ドウ",
+   "url": "http://jisho.org/search/%E5%90%8C%20%E3%83%89%E3%82%A6"
+  }
+ ]
+}
+{
+ "kanji": "自",
+ "level": 4,
+ "url": "http://jisho.org/search/%E8%87%AA%20%23kanji",
+ "translations": "oneself",
+ "kun_readings": [
+  {
+   "reading": "みずか.ら",
+   "url": "http://jisho.org/search/%E8%87%AA%20%E3%81%BF%E3%81%9A%E3%81%8B%E3%82%89"
+  },
+  {
+   "reading": "おの.ずから",
+   "url": "http://jisho.org/search/%E8%87%AA%20%E3%81%8A%E3%81%AE%E3%81%9A%E3%81%8B%E3%82%89"
+  },
+  {
+   "reading": "おの.ずと",
+   "url": "http://jisho.org/search/%E8%87%AA%20%E3%81%8A%E3%81%AE%E3%81%9A%E3%81%A8"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "ジ",
+   "url": "http://jisho.org/search/%E8%87%AA%20%E3%82%B8"
+  },
+  {
+   "reading": "シ",
+   "url": "http://jisho.org/search/%E8%87%AA%20%E3%82%B7"
+  }
+ ]
+}
+{
+ "kanji": "事",
+ "level": 4,
+ "url": "http://jisho.org/search/%E4%BA%8B%20%23kanji",
+ "translations": "matter, thing, fact, business, reason, possibly",
+ "kun_readings": [
+  {
+   "reading": "こと",
+   "url": "http://jisho.org/search/%E4%BA%8B%20%E3%81%93%E3%81%A8"
+  },
+  {
+   "reading": "つか.う",
+   "url": "http://jisho.org/search/%E4%BA%8B%20%E3%81%A4%E3%81%8B%E3%81%86"
+  },
+  {
+   "reading": "つか.える",
+   "url": "http://jisho.org/search/%E4%BA%8B%20%E3%81%A4%E3%81%8B%E3%81%88%E3%82%8B"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "ジ",
+   "url": "http://jisho.org/search/%E4%BA%8B%20%E3%82%B8"
+  },
+  {
+   "reading": "ズ",
+   "url": "http://jisho.org/search/%E4%BA%8B%20%E3%82%BA"
+  }
+ ]
+}
+{
+ "kanji": "社",
+ "level": 4,
+ "url": "http://jisho.org/search/%E7%A4%BE%20%23kanji",
+ "translations": "company, firm, office, association, shrine",
+ "kun_readings": [
+  {
+   "reading": "やしろ",
+   "url": "http://jisho.org/search/%E7%A4%BE%20%E3%82%84%E3%81%97%E3%82%8D"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "シャ",
+   "url": "http://jisho.org/search/%E7%A4%BE%20%E3%82%B7%E3%83%A3"
+  }
+ ]
+}
+{
+ "kanji": "力",
+ "level": 4,
+ "url": "http://jisho.org/search/%E5%8A%9B%20%23kanji",
+ "translations": "power, strength, strong, strain, bear up, exert",
+ "kun_readings": [
+  {
+   "reading": "ちから",
+   "url": "http://jisho.org/search/%E5%8A%9B%20%E3%81%A1%E3%81%8B%E3%82%89"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "リョク",
+   "url": "http://jisho.org/search/%E5%8A%9B%20%E3%83%AA%E3%83%A7%E3%82%AF"
+  },
+  {
+   "reading": "リキ",
+   "url": "http://jisho.org/search/%E5%8A%9B%20%E3%83%AA%E3%82%AD"
+  },
+  {
+   "reading": "リイ",
+   "url": "http://jisho.org/search/%E5%8A%9B%20%E3%83%AA%E3%82%A4"
+  }
+ ]
+}
+{
+ "kanji": "立",
+ "level": 4,
+ "url": "http://jisho.org/search/%E7%AB%8B%20%23kanji",
+ "translations": "stand up, rise, set up, erect",
+ "kun_readings": [
+  {
+   "reading": "た.つ",
+   "url": "http://jisho.org/search/%E7%AB%8B%20%E3%81%9F%E3%81%A4"
+  },
+  {
+   "reading": "-た.つ",
+   "url": "http://jisho.org/search/%E7%AB%8B%20%E3%81%9F%E3%81%A4"
+  },
+  {
+   "reading": "た.ち-",
+   "url": "http://jisho.org/search/%E7%AB%8B%20%E3%81%9F%E3%81%A1"
+  },
+  {
+   "reading": "た.てる",
+   "url": "http://jisho.org/search/%E7%AB%8B%20%E3%81%9F%E3%81%A6%E3%82%8B"
+  },
+  {
+   "reading": "-た.てる",
+   "url": "http://jisho.org/search/%E7%AB%8B%20%E3%81%9F%E3%81%A6%E3%82%8B"
+  },
+  {
+   "reading": "た.て-",
+   "url": "http://jisho.org/search/%E7%AB%8B%20%E3%81%9F%E3%81%A6"
+  },
+  {
+   "reading": "たて-",
+   "url": "http://jisho.org/search/%E7%AB%8B%20%E3%81%9F%E3%81%A6"
+  },
+  {
+   "reading": "-た.て",
+   "url": "http://jisho.org/search/%E7%AB%8B%20%E3%81%9F%E3%81%A6"
+  },
+  {
+   "reading": "-だ.て",
+   "url": "http://jisho.org/search/%E7%AB%8B%20%E3%81%A0%E3%81%A6"
+  },
+  {
+   "reading": "-だ.てる",
+   "url": "http://jisho.org/search/%E7%AB%8B%20%E3%81%A0%E3%81%A6%E3%82%8B"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "リツ",
+   "url": "http://jisho.org/search/%E7%AB%8B%20%E3%83%AA%E3%83%84"
+  },
+  {
+   "reading": "リュウ",
+   "url": "http://jisho.org/search/%E7%AB%8B%20%E3%83%AA%E3%83%A5%E3%82%A6"
+  },
+  {
+   "reading": "リットル",
+   "url": "http://jisho.org/search/%E7%AB%8B%20%E3%83%AA%E3%83%83%E3%83%88%E3%83%AB"
+  }
+ ]
+}
+{
+ "kanji": "手",
+ "level": 4,
+ "url": "http://jisho.org/search/%E6%89%8B%20%23kanji",
+ "translations": "hand",
+ "kun_readings": [
+  {
+   "reading": "て",
+   "url": "http://jisho.org/search/%E6%89%8B%20%E3%81%A6"
+  },
+  {
+   "reading": "て-",
+   "url": "http://jisho.org/search/%E6%89%8B%20%E3%81%A6"
+  },
+  {
+   "reading": "-て",
+   "url": "http://jisho.org/search/%E6%89%8B%20%E3%81%A6"
+  },
+  {
+   "reading": "た-",
+   "url": "http://jisho.org/search/%E6%89%8B%20%E3%81%9F"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "シュ",
+   "url": "http://jisho.org/search/%E6%89%8B%20%E3%82%B7%E3%83%A5"
+  },
+  {
+   "reading": "ズ",
+   "url": "http://jisho.org/search/%E6%89%8B%20%E3%82%BA"
+  }
+ ]
+}
+{
+ "kanji": "地",
+ "level": 4,
+ "url": "http://jisho.org/search/%E5%9C%B0%20%23kanji",
+ "translations": "ground, earth"
+}
+{
+ "kanji": "田",
+ "level": 4,
+ "url": "http://jisho.org/search/%E7%94%B0%20%23kanji",
+ "translations": "rice field, rice paddy",
+ "kun_readings": [
+  {
+   "reading": "た",
+   "url": "http://jisho.org/search/%E7%94%B0%20%E3%81%9F"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "デン",
+   "url": "http://jisho.org/search/%E7%94%B0%20%E3%83%87%E3%83%B3"
+  }
+ ]
+}
+{
+ "kanji": "方",
+ "level": 4,
+ "url": "http://jisho.org/search/%E6%96%B9%20%23kanji",
+ "translations": "direction, person, alternative",
+ "kun_readings": [
+  {
+   "reading": "かた",
+   "url": "http://jisho.org/search/%E6%96%B9%20%E3%81%8B%E3%81%9F"
+  },
+  {
+   "reading": "-かた",
+   "url": "http://jisho.org/search/%E6%96%B9%20%E3%81%8B%E3%81%9F"
+  },
+  {
+   "reading": "-がた",
+   "url": "http://jisho.org/search/%E6%96%B9%20%E3%81%8C%E3%81%9F"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "ホウ",
+   "url": "http://jisho.org/search/%E6%96%B9%20%E3%83%9B%E3%82%A6"
+  }
+ ]
+}
+{
+ "kanji": "発",
+ "level": 4,
+ "url": "http://jisho.org/search/%E7%99%BA%20%23kanji",
+ "translations": "departure, discharge, publish, emit, start from, disclose, counter for gunshots",
+ "kun_readings": [
+  {
+   "reading": "た.つ",
+   "url": "http://jisho.org/search/%E7%99%BA%20%E3%81%9F%E3%81%A4"
+  },
+  {
+   "reading": "あば.く",
+   "url": "http://jisho.org/search/%E7%99%BA%20%E3%81%82%E3%81%B0%E3%81%8F"
+  },
+  {
+   "reading": "おこ.る",
+   "url": "http://jisho.org/search/%E7%99%BA%20%E3%81%8A%E3%81%93%E3%82%8B"
+  },
+  {
+   "reading": "つか.わす",
+   "url": "http://jisho.org/search/%E7%99%BA%20%E3%81%A4%E3%81%8B%E3%82%8F%E3%81%99"
+  },
+  {
+   "reading": "はな.つ",
+   "url": "http://jisho.org/search/%E7%99%BA%20%E3%81%AF%E3%81%AA%E3%81%A4"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "ハツ",
+   "url": "http://jisho.org/search/%E7%99%BA%20%E3%83%8F%E3%83%84"
+  },
+  {
+   "reading": "ホツ",
+   "url": "http://jisho.org/search/%E7%99%BA%20%E3%83%9B%E3%83%84"
+  }
+ ]
+}
+{
+ "kanji": "目",
+ "level": 4,
+ "url": "http://jisho.org/search/%E7%9B%AE%20%23kanji",
+ "translations": "eye, class, look, insight, experience, care, favor",
+ "kun_readings": [
+  {
+   "reading": "め",
+   "url": "http://jisho.org/search/%E7%9B%AE%20%E3%82%81"
+  },
+  {
+   "reading": "-め",
+   "url": "http://jisho.org/search/%E7%9B%AE%20%E3%82%81"
+  },
+  {
+   "reading": "ま-",
+   "url": "http://jisho.org/search/%E7%9B%AE%20%E3%81%BE"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "モク",
+   "url": "http://jisho.org/search/%E7%9B%AE%20%E3%83%A2%E3%82%AF"
+  },
+  {
+   "reading": "ボク",
+   "url": "http://jisho.org/search/%E7%9B%AE%20%E3%83%9C%E3%82%AF"
+  }
+ ]
+}
+{
+ "kanji": "場",
+ "level": 4,
+ "url": "http://jisho.org/search/%E5%A0%B4%20%23kanji",
+ "translations": "location, place",
+ "kun_readings": [
+  {
+   "reading": "ば",
+   "url": "http://jisho.org/search/%E5%A0%B4%20%E3%81%B0"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "ジョウ",
+   "url": "http://jisho.org/search/%E5%A0%B4%20%E3%82%B8%E3%83%A7%E3%82%A6"
+  },
+  {
+   "reading": "チョウ",
+   "url": "http://jisho.org/search/%E5%A0%B4%20%E3%83%81%E3%83%A7%E3%82%A6"
+  }
+ ]
+}
+{
+ "kanji": "者",
+ "level": 4,
+ "url": "http://jisho.org/search/%E8%80%85%20%23kanji",
+ "translations": "someone, person",
+ "kun_readings": [
+  {
+   "reading": "もの",
+   "url": "http://jisho.org/search/%E8%80%85%20%E3%82%82%E3%81%AE"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "シャ",
+   "url": "http://jisho.org/search/%E8%80%85%20%E3%82%B7%E3%83%A3"
+  }
+ ]
+}
+{
+ "kanji": "業",
+ "level": 4,
+ "url": "http://jisho.org/search/%E6%A5%AD%20%23kanji",
+ "translations": "business, vocation, arts, performance",
+ "kun_readings": [
+  {
+   "reading": "わざ",
+   "url": "http://jisho.org/search/%E6%A5%AD%20%E3%82%8F%E3%81%96"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "ギョウ",
+   "url": "http://jisho.org/search/%E6%A5%AD%20%E3%82%AE%E3%83%A7%E3%82%A6"
+  },
+  {
+   "reading": "ゴウ",
+   "url": "http://jisho.org/search/%E6%A5%AD%20%E3%82%B4%E3%82%A6"
+  }
+ ]
+}
+{
+ "kanji": "明",
+ "level": 4,
+ "url": "http://jisho.org/search/%E6%98%8E%20%23kanji",
+ "translations": "bright, light",
+ "kun_readings": [
+  {
+   "reading": "あ.かり",
+   "url": "http://jisho.org/search/%E6%98%8E%20%E3%81%82%E3%81%8B%E3%82%8A"
+  },
+  {
+   "reading": "あか.るい",
+   "url": "http://jisho.org/search/%E6%98%8E%20%E3%81%82%E3%81%8B%E3%82%8B%E3%81%84"
+  },
+  {
+   "reading": "あか.るむ",
+   "url": "http://jisho.org/search/%E6%98%8E%20%E3%81%82%E3%81%8B%E3%82%8B%E3%82%80"
+  },
+  {
+   "reading": "あか.らむ",
+   "url": "http://jisho.org/search/%E6%98%8E%20%E3%81%82%E3%81%8B%E3%82%89%E3%82%80"
+  },
+  {
+   "reading": "あき.らか",
+   "url": "http://jisho.org/search/%E6%98%8E%20%E3%81%82%E3%81%8D%E3%82%89%E3%81%8B"
+  },
+  {
+   "reading": "あ.ける",
+   "url": "http://jisho.org/search/%E6%98%8E%20%E3%81%82%E3%81%91%E3%82%8B"
+  },
+  {
+   "reading": "-あ.け",
+   "url": "http://jisho.org/search/%E6%98%8E%20%E3%81%82%E3%81%91"
+  },
+  {
+   "reading": "あ.く",
+   "url": "http://jisho.org/search/%E6%98%8E%20%E3%81%82%E3%81%8F"
+  },
+  {
+   "reading": "あ.くる",
+   "url": "http://jisho.org/search/%E6%98%8E%20%E3%81%82%E3%81%8F%E3%82%8B"
+  },
+  {
+   "reading": "あ.かす",
+   "url": "http://jisho.org/search/%E6%98%8E%20%E3%81%82%E3%81%8B%E3%81%99"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "メイ",
+   "url": "http://jisho.org/search/%E6%98%8E%20%E3%83%A1%E3%82%A4"
+  },
+  {
+   "reading": "ミョウ",
+   "url": "http://jisho.org/search/%E6%98%8E%20%E3%83%9F%E3%83%A7%E3%82%A6"
+  },
+  {
+   "reading": "ミン",
+   "url": "http://jisho.org/search/%E6%98%8E%20%E3%83%9F%E3%83%B3"
+  }
+ ]
+}
+{
+ "kanji": "新",
+ "level": 4,
+ "url": "http://jisho.org/search/%E6%96%B0%20%23kanji",
+ "translations": "new",
+ "kun_readings": [
+  {
+   "reading": "あたら.しい",
+   "url": "http://jisho.org/search/%E6%96%B0%20%E3%81%82%E3%81%9F%E3%82%89%E3%81%97%E3%81%84"
+  },
+  {
+   "reading": "あら.た",
+   "url": "http://jisho.org/search/%E6%96%B0%20%E3%81%82%E3%82%89%E3%81%9F"
+  },
+  {
+   "reading": "あら-",
+   "url": "http://jisho.org/search/%E6%96%B0%20%E3%81%82%E3%82%89"
+  },
+  {
+   "reading": "にい-",
+   "url": "http://jisho.org/search/%E6%96%B0%20%E3%81%AB%E3%81%84"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "シン",
+   "url": "http://jisho.org/search/%E6%96%B0%20%E3%82%B7%E3%83%B3"
+  }
+ ]
+}
+{
+ "kanji": "正",
+ "level": 4,
+ "url": "http://jisho.org/search/%E6%AD%A3%20%23kanji",
+ "translations": "correct, justice, righteous, 10**40",
+ "kun_readings": [
+  {
+   "reading": "ただ.しい",
+   "url": "http://jisho.org/search/%E6%AD%A3%20%E3%81%9F%E3%81%A0%E3%81%97%E3%81%84"
+  },
+  {
+   "reading": "ただ.す",
+   "url": "http://jisho.org/search/%E6%AD%A3%20%E3%81%9F%E3%81%A0%E3%81%99"
+  },
+  {
+   "reading": "まさ",
+   "url": "http://jisho.org/search/%E6%AD%A3%20%E3%81%BE%E3%81%95"
+  },
+  {
+   "reading": "まさ.に",
+   "url": "http://jisho.org/search/%E6%AD%A3%20%E3%81%BE%E3%81%95%E3%81%AB"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "セイ",
+   "url": "http://jisho.org/search/%E6%AD%A3%20%E3%82%BB%E3%82%A4"
+  },
+  {
+   "reading": "ショウ",
+   "url": "http://jisho.org/search/%E6%AD%A3%20%E3%82%B7%E3%83%A7%E3%82%A6"
+  }
+ ]
+}
+{
+ "kanji": "京",
+ "level": 4,
+ "url": "http://jisho.org/search/%E4%BA%AC%20%23kanji",
+ "translations": "capital, 10**16",
+ "kun_readings": [
+  {
+   "reading": "みやこ",
+   "url": "http://jisho.org/search/%E4%BA%AC%20%E3%81%BF%E3%82%84%E3%81%93"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "キョウ",
+   "url": "http://jisho.org/search/%E4%BA%AC%20%E3%82%AD%E3%83%A7%E3%82%A6"
+  },
+  {
+   "reading": "ケイ",
+   "url": "http://jisho.org/search/%E4%BA%AC%20%E3%82%B1%E3%82%A4"
+  },
+  {
+   "reading": "キン",
+   "url": "http://jisho.org/search/%E4%BA%AC%20%E3%82%AD%E3%83%B3"
+  }
+ ]
+}
+{
+ "kanji": "公",
+ "level": 4,
+ "url": "http://jisho.org/search/%E5%85%AC%20%23kanji",
+ "translations": "public, prince, official, governmental",
+ "kun_readings": [
+  {
+   "reading": "おおやけ",
+   "url": "http://jisho.org/search/%E5%85%AC%20%E3%81%8A%E3%81%8A%E3%82%84%E3%81%91"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "コウ",
+   "url": "http://jisho.org/search/%E5%85%AC%20%E3%82%B3%E3%82%A6"
+  },
+  {
+   "reading": "ク",
+   "url": "http://jisho.org/search/%E5%85%AC%20%E3%82%AF"
+  }
+ ]
+}
+{
+ "kanji": "通",
+ "level": 4,
+ "url": "http://jisho.org/search/%E9%80%9A%20%23kanji",
+ "translations": "traffic, pass through, avenue, commute, counter for letters, notes, documents, etc.",
+ "kun_readings": [
+  {
+   "reading": "とお.る",
+   "url": "http://jisho.org/search/%E9%80%9A%20%E3%81%A8%E3%81%8A%E3%82%8B"
+  },
+  {
+   "reading": "とお.り",
+   "url": "http://jisho.org/search/%E9%80%9A%20%E3%81%A8%E3%81%8A%E3%82%8A"
+  },
+  {
+   "reading": "-とお.り",
+   "url": "http://jisho.org/search/%E9%80%9A%20%E3%81%A8%E3%81%8A%E3%82%8A"
+  },
+  {
+   "reading": "-どお.り",
+   "url": "http://jisho.org/search/%E9%80%9A%20%E3%81%A9%E3%81%8A%E3%82%8A"
+  },
+  {
+   "reading": "とお.す",
+   "url": "http://jisho.org/search/%E9%80%9A%20%E3%81%A8%E3%81%8A%E3%81%99"
+  },
+  {
+   "reading": "とお.し",
+   "url": "http://jisho.org/search/%E9%80%9A%20%E3%81%A8%E3%81%8A%E3%81%97"
+  },
+  {
+   "reading": "-どお.し",
+   "url": "http://jisho.org/search/%E9%80%9A%20%E3%81%A9%E3%81%8A%E3%81%97"
+  },
+  {
+   "reading": "かよ.う",
+   "url": "http://jisho.org/search/%E9%80%9A%20%E3%81%8B%E3%82%88%E3%81%86"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "ツウ",
+   "url": "http://jisho.org/search/%E9%80%9A%20%E3%83%84%E3%82%A6"
+  },
+  {
+   "reading": "ツ",
+   "url": "http://jisho.org/search/%E9%80%9A%20%E3%83%84"
+  }
+ ]
+}
+{
+ "kanji": "員",
+ "level": 4,
+ "url": "http://jisho.org/search/%E5%93%A1%20%23kanji",
+ "translations": "employee, member, number, the one in charge"
+}
+{
+ "kanji": "理",
+ "level": 4,
+ "url": "http://jisho.org/search/%E7%90%86%20%23kanji",
+ "translations": "logic, arrangement, reason, justice, truth",
+ "kun_readings": [
+  {
+   "reading": "ことわり",
+   "url": "http://jisho.org/search/%E7%90%86%20%E3%81%93%E3%81%A8%E3%82%8F%E3%82%8A"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "リ",
+   "url": "http://jisho.org/search/%E7%90%86%20%E3%83%AA"
+  }
+ ]
+}
+{
+ "kanji": "体",
+ "level": 4,
+ "url": "http://jisho.org/search/%E4%BD%93%20%23kanji",
+ "translations": "body, substance, object, reality, counter for images",
+ "kun_readings": [
+  {
+   "reading": "からだ",
+   "url": "http://jisho.org/search/%E4%BD%93%20%E3%81%8B%E3%82%89%E3%81%A0"
+  },
+  {
+   "reading": "かたち",
+   "url": "http://jisho.org/search/%E4%BD%93%20%E3%81%8B%E3%81%9F%E3%81%A1"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "タイ",
+   "url": "http://jisho.org/search/%E4%BD%93%20%E3%82%BF%E3%82%A4"
+  },
+  {
+   "reading": "テイ",
+   "url": "http://jisho.org/search/%E4%BD%93%20%E3%83%86%E3%82%A4"
+  }
+ ]
+}
+{
+ "kanji": "開",
+ "level": 4,
+ "url": "http://jisho.org/search/%E9%96%8B%20%23kanji",
+ "translations": "open, unfold, unseal",
+ "kun_readings": [
+  {
+   "reading": "ひら.く",
+   "url": "http://jisho.org/search/%E9%96%8B%20%E3%81%B2%E3%82%89%E3%81%8F"
+  },
+  {
+   "reading": "ひら.き",
+   "url": "http://jisho.org/search/%E9%96%8B%20%E3%81%B2%E3%82%89%E3%81%8D"
+  },
+  {
+   "reading": "-びら.き",
+   "url": "http://jisho.org/search/%E9%96%8B%20%E3%81%B3%E3%82%89%E3%81%8D"
+  },
+  {
+   "reading": "ひら.ける",
+   "url": "http://jisho.org/search/%E9%96%8B%20%E3%81%B2%E3%82%89%E3%81%91%E3%82%8B"
+  },
+  {
+   "reading": "あ.く",
+   "url": "http://jisho.org/search/%E9%96%8B%20%E3%81%82%E3%81%8F"
+  },
+  {
+   "reading": "あ.ける",
+   "url": "http://jisho.org/search/%E9%96%8B%20%E3%81%82%E3%81%91%E3%82%8B"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "カイ",
+   "url": "http://jisho.org/search/%E9%96%8B%20%E3%82%AB%E3%82%A4"
+  }
+ ]
+}
+{
+ "kanji": "文",
+ "level": 4,
+ "url": "http://jisho.org/search/%E6%96%87%20%23kanji",
+ "translations": "sentence, literature, style, art, decoration, figures, plan, literary radical (no. 67)",
+ "kun_readings": [
+  {
+   "reading": "ふみ",
+   "url": "http://jisho.org/search/%E6%96%87%20%E3%81%B5%E3%81%BF"
+  },
+  {
+   "reading": "あや",
+   "url": "http://jisho.org/search/%E6%96%87%20%E3%81%82%E3%82%84"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "ブン",
+   "url": "http://jisho.org/search/%E6%96%87%20%E3%83%96%E3%83%B3"
+  },
+  {
+   "reading": "モン",
+   "url": "http://jisho.org/search/%E6%96%87%20%E3%83%A2%E3%83%B3"
+  }
+ ]
+}
+{
+ "kanji": "問",
+ "level": 4,
+ "url": "http://jisho.org/search/%E5%95%8F%20%23kanji",
+ "translations": "question, ask, problem",
+ "kun_readings": [
+  {
+   "reading": "と.う",
+   "url": "http://jisho.org/search/%E5%95%8F%20%E3%81%A8%E3%81%86"
+  },
+  {
+   "reading": "と.い",
+   "url": "http://jisho.org/search/%E5%95%8F%20%E3%81%A8%E3%81%84"
+  },
+  {
+   "reading": "とん",
+   "url": "http://jisho.org/search/%E5%95%8F%20%E3%81%A8%E3%82%93"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "モン",
+   "url": "http://jisho.org/search/%E5%95%8F%20%E3%83%A2%E3%83%B3"
+  }
+ ]
+}
+{
+ "kanji": "代",
+ "level": 4,
+ "url": "http://jisho.org/search/%E4%BB%A3%20%23kanji",
+ "translations": "substitute, change, convert, replace, period, age, counter for decades of ages, eras, etc., generation, charge, rate, fee",
+ "kun_readings": [
+  {
+   "reading": "か.わる",
+   "url": "http://jisho.org/search/%E4%BB%A3%20%E3%81%8B%E3%82%8F%E3%82%8B"
+  },
+  {
+   "reading": "かわ.る",
+   "url": "http://jisho.org/search/%E4%BB%A3%20%E3%81%8B%E3%82%8F%E3%82%8B"
+  },
+  {
+   "reading": "かわ.り",
+   "url": "http://jisho.org/search/%E4%BB%A3%20%E3%81%8B%E3%82%8F%E3%82%8A"
+  },
+  {
+   "reading": "か.わり",
+   "url": "http://jisho.org/search/%E4%BB%A3%20%E3%81%8B%E3%82%8F%E3%82%8A"
+  },
+  {
+   "reading": "-がわ.り",
+   "url": "http://jisho.org/search/%E4%BB%A3%20%E3%81%8C%E3%82%8F%E3%82%8A"
+  },
+  {
+   "reading": "-が.わり",
+   "url": "http://jisho.org/search/%E4%BB%A3%20%E3%81%8C%E3%82%8F%E3%82%8A"
+  },
+  {
+   "reading": "か.える",
+   "url": "http://jisho.org/search/%E4%BB%A3%20%E3%81%8B%E3%81%88%E3%82%8B"
+  },
+  {
+   "reading": "よ",
+   "url": "http://jisho.org/search/%E4%BB%A3%20%E3%82%88"
+  },
+  {
+   "reading": "しろ",
+   "url": "http://jisho.org/search/%E4%BB%A3%20%E3%81%97%E3%82%8D"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "ダイ",
+   "url": "http://jisho.org/search/%E4%BB%A3%20%E3%83%80%E3%82%A4"
+  },
+  {
+   "reading": "タイ",
+   "url": "http://jisho.org/search/%E4%BB%A3%20%E3%82%BF%E3%82%A4"
+  }
+ ]
+}
+{
+ "kanji": "作",
+ "level": 4,
+ "url": "http://jisho.org/search/%E4%BD%9C%20%23kanji",
+ "translations": "make, production, prepare, build",
+ "kun_readings": [
+  {
+   "reading": "つく.る",
+   "url": "http://jisho.org/search/%E4%BD%9C%20%E3%81%A4%E3%81%8F%E3%82%8B"
+  },
+  {
+   "reading": "つく.り",
+   "url": "http://jisho.org/search/%E4%BD%9C%20%E3%81%A4%E3%81%8F%E3%82%8A"
+  },
+  {
+   "reading": "-づく.り",
+   "url": "http://jisho.org/search/%E4%BD%9C%20%E3%81%A5%E3%81%8F%E3%82%8A"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "サク",
+   "url": "http://jisho.org/search/%E4%BD%9C%20%E3%82%B5%E3%82%AF"
+  },
+  {
+   "reading": "サ",
+   "url": "http://jisho.org/search/%E4%BD%9C%20%E3%82%B5"
+  }
+ ]
+}
+{
+ "kanji": "用",
+ "level": 4,
+ "url": "http://jisho.org/search/%E7%94%A8%20%23kanji",
+ "translations": "utilize, business, service, use, employ",
+ "kun_readings": [
+  {
+   "reading": "もち.いる",
+   "url": "http://jisho.org/search/%E7%94%A8%20%E3%82%82%E3%81%A1%E3%81%84%E3%82%8B"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "ヨウ",
+   "url": "http://jisho.org/search/%E7%94%A8%20%E3%83%A8%E3%82%A6"
+  }
+ ]
+}
+{
+ "kanji": "動",
+ "level": 4,
+ "url": "http://jisho.org/search/%E5%8B%95%20%23kanji",
+ "translations": "move, motion, change, confusion, shift, shake",
+ "kun_readings": [
+  {
+   "reading": "うご.く",
+   "url": "http://jisho.org/search/%E5%8B%95%20%E3%81%86%E3%81%94%E3%81%8F"
+  },
+  {
+   "reading": "うご.かす",
+   "url": "http://jisho.org/search/%E5%8B%95%20%E3%81%86%E3%81%94%E3%81%8B%E3%81%99"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "ドウ",
+   "url": "http://jisho.org/search/%E5%8B%95%20%E3%83%89%E3%82%A6"
+  }
+ ]
+}
+{
+ "kanji": "言",
+ "level": 4,
+ "url": "http://jisho.org/search/%E8%A8%80%20%23kanji",
+ "translations": "say, word",
+ "kun_readings": [
+  {
+   "reading": "い.う",
+   "url": "http://jisho.org/search/%E8%A8%80%20%E3%81%84%E3%81%86"
+  },
+  {
+   "reading": "こと",
+   "url": "http://jisho.org/search/%E8%A8%80%20%E3%81%93%E3%81%A8"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "ゲン",
+   "url": "http://jisho.org/search/%E8%A8%80%20%E3%82%B2%E3%83%B3"
+  },
+  {
+   "reading": "ゴン",
+   "url": "http://jisho.org/search/%E8%A8%80%20%E3%82%B4%E3%83%B3"
+  }
+ ]
+}
+{
+ "kanji": "強",
+ "level": 4,
+ "url": "http://jisho.org/search/%E5%BC%B7%20%23kanji",
+ "translations": "strong",
+ "kun_readings": [
+  {
+   "reading": "つよ.い",
+   "url": "http://jisho.org/search/%E5%BC%B7%20%E3%81%A4%E3%82%88%E3%81%84"
+  },
+  {
+   "reading": "つよ.まる",
+   "url": "http://jisho.org/search/%E5%BC%B7%20%E3%81%A4%E3%82%88%E3%81%BE%E3%82%8B"
+  },
+  {
+   "reading": "つよ.める",
+   "url": "http://jisho.org/search/%E5%BC%B7%20%E3%81%A4%E3%82%88%E3%82%81%E3%82%8B"
+  },
+  {
+   "reading": "し.いる",
+   "url": "http://jisho.org/search/%E5%BC%B7%20%E3%81%97%E3%81%84%E3%82%8B"
+  },
+  {
+   "reading": "こわ.い",
+   "url": "http://jisho.org/search/%E5%BC%B7%20%E3%81%93%E3%82%8F%E3%81%84"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "キョウ",
+   "url": "http://jisho.org/search/%E5%BC%B7%20%E3%82%AD%E3%83%A7%E3%82%A6"
+  },
+  {
+   "reading": "ゴウ",
+   "url": "http://jisho.org/search/%E5%BC%B7%20%E3%82%B4%E3%82%A6"
+  }
+ ]
+}
+{
+ "kanji": "野",
+ "level": 4,
+ "url": "http://jisho.org/search/%E9%87%8E%20%23kanji",
+ "translations": "plains, field, rustic, civilian life",
+ "kun_readings": [
+  {
+   "reading": "の",
+   "url": "http://jisho.org/search/%E9%87%8E%20%E3%81%AE"
+  },
+  {
+   "reading": "の-",
+   "url": "http://jisho.org/search/%E9%87%8E%20%E3%81%AE"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "ヤ",
+   "url": "http://jisho.org/search/%E9%87%8E%20%E3%83%A4"
+  },
+  {
+   "reading": "ショ",
+   "url": "http://jisho.org/search/%E9%87%8E%20%E3%82%B7%E3%83%A7"
+  }
+ ]
+}
+{
+ "kanji": "思",
+ "level": 4,
+ "url": "http://jisho.org/search/%E6%80%9D%20%23kanji",
+ "translations": "think",
+ "kun_readings": [
+  {
+   "reading": "おも.う",
+   "url": "http://jisho.org/search/%E6%80%9D%20%E3%81%8A%E3%82%82%E3%81%86"
+  },
+  {
+   "reading": "おもえら.く",
+   "url": "http://jisho.org/search/%E6%80%9D%20%E3%81%8A%E3%82%82%E3%81%88%E3%82%89%E3%81%8F"
+  },
+  {
+   "reading": "おぼ.す",
+   "url": "http://jisho.org/search/%E6%80%9D%20%E3%81%8A%E3%81%BC%E3%81%99"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "シ",
+   "url": "http://jisho.org/search/%E6%80%9D%20%E3%82%B7"
+  }
+ ]
+}
+{
+ "kanji": "家",
+ "level": 4,
+ "url": "http://jisho.org/search/%E5%AE%B6%20%23kanji",
+ "translations": "house, home, family, professional, expert, performer",
+ "kun_readings": [
+  {
+   "reading": "いえ",
+   "url": "http://jisho.org/search/%E5%AE%B6%20%E3%81%84%E3%81%88"
+  },
+  {
+   "reading": "や",
+   "url": "http://jisho.org/search/%E5%AE%B6%20%E3%82%84"
+  },
+  {
+   "reading": "うち",
+   "url": "http://jisho.org/search/%E5%AE%B6%20%E3%81%86%E3%81%A1"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "カ",
+   "url": "http://jisho.org/search/%E5%AE%B6%20%E3%82%AB"
+  },
+  {
+   "reading": "ケ",
+   "url": "http://jisho.org/search/%E5%AE%B6%20%E3%82%B1"
+  }
+ ]
+}
+{
+ "kanji": "主",
+ "level": 4,
+ "url": "http://jisho.org/search/%E4%B8%BB%20%23kanji",
+ "translations": "lord, chief, master, main thing, principal",
+ "kun_readings": [
+  {
+   "reading": "ぬし",
+   "url": "http://jisho.org/search/%E4%B8%BB%20%E3%81%AC%E3%81%97"
+  },
+  {
+   "reading": "おも",
+   "url": "http://jisho.org/search/%E4%B8%BB%20%E3%81%8A%E3%82%82"
+  },
+  {
+   "reading": "あるじ",
+   "url": "http://jisho.org/search/%E4%B8%BB%20%E3%81%82%E3%82%8B%E3%81%98"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "シュ",
+   "url": "http://jisho.org/search/%E4%B8%BB%20%E3%82%B7%E3%83%A5"
+  },
+  {
+   "reading": "ス",
+   "url": "http://jisho.org/search/%E4%B8%BB%20%E3%82%B9"
+  },
+  {
+   "reading": "シュウ",
+   "url": "http://jisho.org/search/%E4%B8%BB%20%E3%82%B7%E3%83%A5%E3%82%A6"
+  }
+ ]
+}
+{
+ "kanji": "題",
+ "level": 4,
+ "url": "http://jisho.org/search/%E9%A1%8C%20%23kanji",
+ "translations": "topic, subject"
+}
+{
+ "kanji": "町",
+ "level": 4,
+ "url": "http://jisho.org/search/%E7%94%BA%20%23kanji",
+ "translations": "town, village, block, street",
+ "kun_readings": [
+  {
+   "reading": "まち",
+   "url": "http://jisho.org/search/%E7%94%BA%20%E3%81%BE%E3%81%A1"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "チョウ",
+   "url": "http://jisho.org/search/%E7%94%BA%20%E3%83%81%E3%83%A7%E3%82%A6"
+  }
+ ]
+}
+{
+ "kanji": "意",
+ "level": 4,
+ "url": "http://jisho.org/search/%E6%84%8F%20%23kanji",
+ "translations": "idea, mind, heart, taste, thought, desire, care, liking"
+}
+{
+ "kanji": "心",
+ "level": 4,
+ "url": "http://jisho.org/search/%E5%BF%83%20%23kanji",
+ "translations": "heart, mind, spirit, heart radical (no. 61)",
+ "kun_readings": [
+  {
+   "reading": "こころ",
+   "url": "http://jisho.org/search/%E5%BF%83%20%E3%81%93%E3%81%93%E3%82%8D"
+  },
+  {
+   "reading": "-ごころ",
+   "url": "http://jisho.org/search/%E5%BF%83%20%E3%81%94%E3%81%93%E3%82%8D"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "シン",
+   "url": "http://jisho.org/search/%E5%BF%83%20%E3%82%B7%E3%83%B3"
+  }
+ ]
+}
+{
+ "kanji": "度",
+ "level": 4,
+ "url": "http://jisho.org/search/%E5%BA%A6%20%23kanji",
+ "translations": "degrees, occurrence, time, counter for occurrences, consider, attitude",
+ "kun_readings": [
+  {
+   "reading": "たび",
+   "url": "http://jisho.org/search/%E5%BA%A6%20%E3%81%9F%E3%81%B3"
+  },
+  {
+   "reading": "-た.い",
+   "url": "http://jisho.org/search/%E5%BA%A6%20%E3%81%9F%E3%81%84"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "ド",
+   "url": "http://jisho.org/search/%E5%BA%A6%20%E3%83%89"
+  },
+  {
+   "reading": "ト",
+   "url": "http://jisho.org/search/%E5%BA%A6%20%E3%83%88"
+  },
+  {
+   "reading": "タク",
+   "url": "http://jisho.org/search/%E5%BA%A6%20%E3%82%BF%E3%82%AF"
+  }
+ ]
+}
+{
+ "kanji": "教",
+ "level": 4,
+ "url": "http://jisho.org/search/%E6%95%99%20%23kanji",
+ "translations": "teach, faith, doctrine",
+ "kun_readings": [
+  {
+   "reading": "おし.える",
+   "url": "http://jisho.org/search/%E6%95%99%20%E3%81%8A%E3%81%97%E3%81%88%E3%82%8B"
+  },
+  {
+   "reading": "おそ.わる",
+   "url": "http://jisho.org/search/%E6%95%99%20%E3%81%8A%E3%81%9D%E3%82%8F%E3%82%8B"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "キョウ",
+   "url": "http://jisho.org/search/%E6%95%99%20%E3%82%AD%E3%83%A7%E3%82%A6"
+  }
+ ]
+}
+{
+ "kanji": "持",
+ "level": 4,
+ "url": "http://jisho.org/search/%E6%8C%81%20%23kanji",
+ "translations": "hold, have",
+ "kun_readings": [
+  {
+   "reading": "も.つ",
+   "url": "http://jisho.org/search/%E6%8C%81%20%E3%82%82%E3%81%A4"
+  },
+  {
+   "reading": "-も.ち",
+   "url": "http://jisho.org/search/%E6%8C%81%20%E3%82%82%E3%81%A1"
+  },
+  {
+   "reading": "も.てる",
+   "url": "http://jisho.org/search/%E6%8C%81%20%E3%82%82%E3%81%A6%E3%82%8B"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "ジ",
+   "url": "http://jisho.org/search/%E6%8C%81%20%E3%82%B8"
+  }
+ ]
+}
+{
+ "kanji": "多",
+ "level": 4,
+ "url": "http://jisho.org/search/%E5%A4%9A%20%23kanji",
+ "translations": "many, frequent, much",
+ "kun_readings": [
+  {
+   "reading": "おお.い",
+   "url": "http://jisho.org/search/%E5%A4%9A%20%E3%81%8A%E3%81%8A%E3%81%84"
+  },
+  {
+   "reading": "まさ.に",
+   "url": "http://jisho.org/search/%E5%A4%9A%20%E3%81%BE%E3%81%95%E3%81%AB"
+  },
+  {
+   "reading": "まさ.る",
+   "url": "http://jisho.org/search/%E5%A4%9A%20%E3%81%BE%E3%81%95%E3%82%8B"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "タ",
+   "url": "http://jisho.org/search/%E5%A4%9A%20%E3%82%BF"
+  }
+ ]
+}
+{
+ "kanji": "口",
+ "level": 4,
+ "url": "http://jisho.org/search/%E5%8F%A3%20%23kanji",
+ "translations": "mouth",
+ "kun_readings": [
+  {
+   "reading": "くち",
+   "url": "http://jisho.org/search/%E5%8F%A3%20%E3%81%8F%E3%81%A1"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "コウ",
+   "url": "http://jisho.org/search/%E5%8F%A3%20%E3%82%B3%E3%82%A6"
+  },
+  {
+   "reading": "ク",
+   "url": "http://jisho.org/search/%E5%8F%A3%20%E3%82%AF"
+  }
+ ]
+}
+{
+ "kanji": "元",
+ "level": 4,
+ "url": "http://jisho.org/search/%E5%85%83%20%23kanji",
+ "translations": "beginning, former time, origin",
+ "kun_readings": [
+  {
+   "reading": "もと",
+   "url": "http://jisho.org/search/%E5%85%83%20%E3%82%82%E3%81%A8"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "ゲン",
+   "url": "http://jisho.org/search/%E5%85%83%20%E3%82%B2%E3%83%B3"
+  },
+  {
+   "reading": "ガン",
+   "url": "http://jisho.org/search/%E5%85%83%20%E3%82%AC%E3%83%B3"
+  }
+ ]
+}
+{
+ "kanji": "近",
+ "level": 4,
+ "url": "http://jisho.org/search/%E8%BF%91%20%23kanji",
+ "translations": "near, early, akin, tantamount",
+ "kun_readings": [
+  {
+   "reading": "ちか.い",
+   "url": "http://jisho.org/search/%E8%BF%91%20%E3%81%A1%E3%81%8B%E3%81%84"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "キン",
+   "url": "http://jisho.org/search/%E8%BF%91%20%E3%82%AD%E3%83%B3"
+  },
+  {
+   "reading": "コン",
+   "url": "http://jisho.org/search/%E8%BF%91%20%E3%82%B3%E3%83%B3"
+  }
+ ]
+}
+{
+ "kanji": "考",
+ "level": 4,
+ "url": "http://jisho.org/search/%E8%80%83%20%23kanji",
+ "translations": "consider, think over",
+ "kun_readings": [
+  {
+   "reading": "かんが.える",
+   "url": "http://jisho.org/search/%E8%80%83%20%E3%81%8B%E3%82%93%E3%81%8C%E3%81%88%E3%82%8B"
+  },
+  {
+   "reading": "かんが.え",
+   "url": "http://jisho.org/search/%E8%80%83%20%E3%81%8B%E3%82%93%E3%81%8C%E3%81%88"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "コウ",
+   "url": "http://jisho.org/search/%E8%80%83%20%E3%82%B3%E3%82%A6"
+  }
+ ]
+}
+{
+ "kanji": "画",
+ "level": 4,
+ "url": "http://jisho.org/search/%E7%94%BB%20%23kanji",
+ "translations": "brush-stroke, picture",
+ "kun_readings": [
+  {
+   "reading": "えが.く",
+   "url": "http://jisho.org/search/%E7%94%BB%20%E3%81%88%E3%81%8C%E3%81%8F"
+  },
+  {
+   "reading": "かく.する",
+   "url": "http://jisho.org/search/%E7%94%BB%20%E3%81%8B%E3%81%8F%E3%81%99%E3%82%8B"
+  },
+  {
+   "reading": "かぎ.る",
+   "url": "http://jisho.org/search/%E7%94%BB%20%E3%81%8B%E3%81%8E%E3%82%8B"
+  },
+  {
+   "reading": "はかりごと",
+   "url": "http://jisho.org/search/%E7%94%BB%20%E3%81%AF%E3%81%8B%E3%82%8A%E3%81%94%E3%81%A8"
+  },
+  {
+   "reading": "はか.る",
+   "url": "http://jisho.org/search/%E7%94%BB%20%E3%81%AF%E3%81%8B%E3%82%8B"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "ガ",
+   "url": "http://jisho.org/search/%E7%94%BB%20%E3%82%AC"
+  },
+  {
+   "reading": "カク",
+   "url": "http://jisho.org/search/%E7%94%BB%20%E3%82%AB%E3%82%AF"
+  },
+  {
+   "reading": "エ",
+   "url": "http://jisho.org/search/%E7%94%BB%20%E3%82%A8"
+  },
+  {
+   "reading": "カイ",
+   "url": "http://jisho.org/search/%E7%94%BB%20%E3%82%AB%E3%82%A4"
+  }
+ ]
+}
+{
+ "kanji": "海",
+ "level": 4,
+ "url": "http://jisho.org/search/%E6%B5%B7%20%23kanji",
+ "translations": "sea, ocean",
+ "kun_readings": [
+  {
+   "reading": "うみ",
+   "url": "http://jisho.org/search/%E6%B5%B7%20%E3%81%86%E3%81%BF"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "カイ",
+   "url": "http://jisho.org/search/%E6%B5%B7%20%E3%82%AB%E3%82%A4"
+  }
+ ]
+}
+{
+ "kanji": "早",
+ "level": 4,
+ "url": "http://jisho.org/search/%E6%97%A9%20%23kanji",
+ "translations": "early, fast",
+ "kun_readings": [
+  {
+   "reading": "はや.い",
+   "url": "http://jisho.org/search/%E6%97%A9%20%E3%81%AF%E3%82%84%E3%81%84"
+  },
+  {
+   "reading": "はや",
+   "url": "http://jisho.org/search/%E6%97%A9%20%E3%81%AF%E3%82%84"
+  },
+  {
+   "reading": "はや-",
+   "url": "http://jisho.org/search/%E6%97%A9%20%E3%81%AF%E3%82%84"
+  },
+  {
+   "reading": "はや.まる",
+   "url": "http://jisho.org/search/%E6%97%A9%20%E3%81%AF%E3%82%84%E3%81%BE%E3%82%8B"
+  },
+  {
+   "reading": "はや.める",
+   "url": "http://jisho.org/search/%E6%97%A9%20%E3%81%AF%E3%82%84%E3%82%81%E3%82%8B"
+  },
+  {
+   "reading": "さ-",
+   "url": "http://jisho.org/search/%E6%97%A9%20%E3%81%95"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "ソウ",
+   "url": "http://jisho.org/search/%E6%97%A9%20%E3%82%BD%E3%82%A6"
+  },
+  {
+   "reading": "サッ",
+   "url": "http://jisho.org/search/%E6%97%A9%20%E3%82%B5%E3%83%83"
+  }
+ ]
+}
+{
+ "kanji": "不",
+ "level": 4,
+ "url": "http://jisho.org/search/%E4%B8%8D%20%23kanji",
+ "translations": "negative, non-, bad, ugly, clumsy"
+}
+{
+ "kanji": "売",
+ "level": 4,
+ "url": "http://jisho.org/search/%E5%A3%B2%20%23kanji",
+ "translations": "sell",
+ "kun_readings": [
+  {
+   "reading": "う.る",
+   "url": "http://jisho.org/search/%E5%A3%B2%20%E3%81%86%E3%82%8B"
+  },
+  {
+   "reading": "う.れる",
+   "url": "http://jisho.org/search/%E5%A3%B2%20%E3%81%86%E3%82%8C%E3%82%8B"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "バイ",
+   "url": "http://jisho.org/search/%E5%A3%B2%20%E3%83%90%E3%82%A4"
+  }
+ ]
+}
+{
+ "kanji": "世",
+ "level": 4,
+ "url": "http://jisho.org/search/%E4%B8%96%20%23kanji",
+ "translations": "generation, world, society, public",
+ "kun_readings": [
+  {
+   "reading": "よ",
+   "url": "http://jisho.org/search/%E4%B8%96%20%E3%82%88"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "セイ",
+   "url": "http://jisho.org/search/%E4%B8%96%20%E3%82%BB%E3%82%A4"
+  },
+  {
+   "reading": "セ",
+   "url": "http://jisho.org/search/%E4%B8%96%20%E3%82%BB"
+  },
+  {
+   "reading": "ソウ",
+   "url": "http://jisho.org/search/%E4%B8%96%20%E3%82%BD%E3%82%A6"
+  }
+ ]
+}
+{
+ "kanji": "空",
+ "level": 4,
+ "url": "http://jisho.org/search/%E7%A9%BA%20%23kanji",
+ "translations": "empty, sky, void, vacant, vacuum",
+ "kun_readings": [
+  {
+   "reading": "そら",
+   "url": "http://jisho.org/search/%E7%A9%BA%20%E3%81%9D%E3%82%89"
+  },
+  {
+   "reading": "あ.く",
+   "url": "http://jisho.org/search/%E7%A9%BA%20%E3%81%82%E3%81%8F"
+  },
+  {
+   "reading": "あ.き",
+   "url": "http://jisho.org/search/%E7%A9%BA%20%E3%81%82%E3%81%8D"
+  },
+  {
+   "reading": "あ.ける",
+   "url": "http://jisho.org/search/%E7%A9%BA%20%E3%81%82%E3%81%91%E3%82%8B"
+  },
+  {
+   "reading": "から",
+   "url": "http://jisho.org/search/%E7%A9%BA%20%E3%81%8B%E3%82%89"
+  },
+  {
+   "reading": "す.く",
+   "url": "http://jisho.org/search/%E7%A9%BA%20%E3%81%99%E3%81%8F"
+  },
+  {
+   "reading": "す.かす",
+   "url": "http://jisho.org/search/%E7%A9%BA%20%E3%81%99%E3%81%8B%E3%81%99"
+  },
+  {
+   "reading": "むな.しい",
+   "url": "http://jisho.org/search/%E7%A9%BA%20%E3%82%80%E3%81%AA%E3%81%97%E3%81%84"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "クウ",
+   "url": "http://jisho.org/search/%E7%A9%BA%20%E3%82%AF%E3%82%A6"
+  }
+ ]
+}
+{
+ "kanji": "知",
+ "level": 4,
+ "url": "http://jisho.org/search/%E7%9F%A5%20%23kanji",
+ "translations": "know, wisdom",
+ "kun_readings": [
+  {
+   "reading": "し.る",
+   "url": "http://jisho.org/search/%E7%9F%A5%20%E3%81%97%E3%82%8B"
+  },
+  {
+   "reading": "し.らせる",
+   "url": "http://jisho.org/search/%E7%9F%A5%20%E3%81%97%E3%82%89%E3%81%9B%E3%82%8B"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "チ",
+   "url": "http://jisho.org/search/%E7%9F%A5%20%E3%83%81"
+  }
+ ]
+}
+{
+ "kanji": "院",
+ "level": 4,
+ "url": "http://jisho.org/search/%E9%99%A2%20%23kanji",
+ "translations": "Inst., institution, temple, mansion, school"
+}
+{
+ "kanji": "計",
+ "level": 4,
+ "url": "http://jisho.org/search/%E8%A8%88%20%23kanji",
+ "translations": "plot, plan, scheme, measure",
+ "kun_readings": [
+  {
+   "reading": "はか.る",
+   "url": "http://jisho.org/search/%E8%A8%88%20%E3%81%AF%E3%81%8B%E3%82%8B"
+  },
+  {
+   "reading": "はか.らう",
+   "url": "http://jisho.org/search/%E8%A8%88%20%E3%81%AF%E3%81%8B%E3%82%89%E3%81%86"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "ケイ",
+   "url": "http://jisho.org/search/%E8%A8%88%20%E3%82%B1%E3%82%A4"
+  }
+ ]
+}
+{
+ "kanji": "足",
+ "level": 4,
+ "url": "http://jisho.org/search/%E8%B6%B3%20%23kanji",
+ "translations": "leg, foot, be sufficient, counter for pairs of footwear",
+ "kun_readings": [
+  {
+   "reading": "あし",
+   "url": "http://jisho.org/search/%E8%B6%B3%20%E3%81%82%E3%81%97"
+  },
+  {
+   "reading": "た.りる",
+   "url": "http://jisho.org/search/%E8%B6%B3%20%E3%81%9F%E3%82%8A%E3%82%8B"
+  },
+  {
+   "reading": "た.る",
+   "url": "http://jisho.org/search/%E8%B6%B3%20%E3%81%9F%E3%82%8B"
+  },
+  {
+   "reading": "た.す",
+   "url": "http://jisho.org/search/%E8%B6%B3%20%E3%81%9F%E3%81%99"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "ソク",
+   "url": "http://jisho.org/search/%E8%B6%B3%20%E3%82%BD%E3%82%AF"
+  }
+ ]
+}
+{
+ "kanji": "界",
+ "level": 4,
+ "url": "http://jisho.org/search/%E7%95%8C%20%23kanji",
+ "translations": "world, boundary"
+}
+{
+ "kanji": "字",
+ "level": 4,
+ "url": "http://jisho.org/search/%E5%AD%97%20%23kanji",
+ "translations": "character, letter, word, section of village",
+ "kun_readings": [
+  {
+   "reading": "あざ",
+   "url": "http://jisho.org/search/%E5%AD%97%20%E3%81%82%E3%81%96"
+  },
+  {
+   "reading": "あざな",
+   "url": "http://jisho.org/search/%E5%AD%97%20%E3%81%82%E3%81%96%E3%81%AA"
+  },
+  {
+   "reading": "-な",
+   "url": "http://jisho.org/search/%E5%AD%97%20%E3%81%AA"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "ジ",
+   "url": "http://jisho.org/search/%E5%AD%97%20%E3%82%B8"
+  }
+ ]
+}
+{
+ "kanji": "音",
+ "level": 4,
+ "url": "http://jisho.org/search/%E9%9F%B3%20%23kanji",
+ "translations": "sound, noise",
+ "kun_readings": [
+  {
+   "reading": "おと",
+   "url": "http://jisho.org/search/%E9%9F%B3%20%E3%81%8A%E3%81%A8"
+  },
+  {
+   "reading": "ね",
+   "url": "http://jisho.org/search/%E9%9F%B3%20%E3%81%AD"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "オン",
+   "url": "http://jisho.org/search/%E9%9F%B3%20%E3%82%AA%E3%83%B3"
+  },
+  {
+   "reading": "イン",
+   "url": "http://jisho.org/search/%E9%9F%B3%20%E3%82%A4%E3%83%B3"
+  },
+  {
+   "reading": "-ノン",
+   "url": "http://jisho.org/search/%E9%9F%B3%20%E3%83%8E%E3%83%B3"
+  }
+ ]
+}
+{
+ "kanji": "朝",
+ "level": 4,
+ "url": "http://jisho.org/search/%E6%9C%9D%20%23kanji",
+ "translations": "morning, dynasty, regime, epoch, period, (North) Korea",
+ "kun_readings": [
+  {
+   "reading": "あさ",
+   "url": "http://jisho.org/search/%E6%9C%9D%20%E3%81%82%E3%81%95"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "チョウ",
+   "url": "http://jisho.org/search/%E6%9C%9D%20%E3%83%81%E3%83%A7%E3%82%A6"
+  }
+ ]
+}
+{
+ "kanji": "以",
+ "level": 4,
+ "url": "http://jisho.org/search/%E4%BB%A5%20%23kanji",
+ "translations": "by means of, because, in view of, compared with",
+ "kun_readings": [
+  {
+   "reading": "もっ.て",
+   "url": "http://jisho.org/search/%E4%BB%A5%20%E3%82%82%E3%81%A3%E3%81%A6"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "イ",
+   "url": "http://jisho.org/search/%E4%BB%A5%20%E3%82%A4"
+  }
+ ]
+}
+{
+ "kanji": "台",
+ "level": 4,
+ "url": "http://jisho.org/search/%E5%8F%B0%20%23kanji",
+ "translations": "pedestal, a stand, counter for machines and vehicles",
+ "kun_readings": [
+  {
+   "reading": "うてな",
+   "url": "http://jisho.org/search/%E5%8F%B0%20%E3%81%86%E3%81%A6%E3%81%AA"
+  },
+  {
+   "reading": "われ",
+   "url": "http://jisho.org/search/%E5%8F%B0%20%E3%82%8F%E3%82%8C"
+  },
+  {
+   "reading": "つかさ",
+   "url": "http://jisho.org/search/%E5%8F%B0%20%E3%81%A4%E3%81%8B%E3%81%95"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "ダイ",
+   "url": "http://jisho.org/search/%E5%8F%B0%20%E3%83%80%E3%82%A4"
+  },
+  {
+   "reading": "タイ",
+   "url": "http://jisho.org/search/%E5%8F%B0%20%E3%82%BF%E3%82%A4"
+  }
+ ]
+}
+{
+ "kanji": "広",
+ "level": 4,
+ "url": "http://jisho.org/search/%E5%BA%83%20%23kanji",
+ "translations": "wide, broad, spacious",
+ "kun_readings": [
+  {
+   "reading": "ひろ.い",
+   "url": "http://jisho.org/search/%E5%BA%83%20%E3%81%B2%E3%82%8D%E3%81%84"
+  },
+  {
+   "reading": "ひろ.まる",
+   "url": "http://jisho.org/search/%E5%BA%83%20%E3%81%B2%E3%82%8D%E3%81%BE%E3%82%8B"
+  },
+  {
+   "reading": "ひろ.める",
+   "url": "http://jisho.org/search/%E5%BA%83%20%E3%81%B2%E3%82%8D%E3%82%81%E3%82%8B"
+  },
+  {
+   "reading": "ひろ.がる",
+   "url": "http://jisho.org/search/%E5%BA%83%20%E3%81%B2%E3%82%8D%E3%81%8C%E3%82%8B"
+  },
+  {
+   "reading": "ひろ.げる",
+   "url": "http://jisho.org/search/%E5%BA%83%20%E3%81%B2%E3%82%8D%E3%81%92%E3%82%8B"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "コウ",
+   "url": "http://jisho.org/search/%E5%BA%83%20%E3%82%B3%E3%82%A6"
+  }
+ ]
+}
+{
+ "kanji": "道",
+ "level": 4,
+ "url": "http://jisho.org/search/%E9%81%93%20%23kanji",
+ "translations": "road-way, street, district, journey, course, moral, teachings",
+ "kun_readings": [
+  {
+   "reading": "みち",
+   "url": "http://jisho.org/search/%E9%81%93%20%E3%81%BF%E3%81%A1"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "ドウ",
+   "url": "http://jisho.org/search/%E9%81%93%20%E3%83%89%E3%82%A6"
+  },
+  {
+   "reading": "トウ",
+   "url": "http://jisho.org/search/%E9%81%93%20%E3%83%88%E3%82%A6"
+  }
+ ]
+}
+{
+ "kanji": "安",
+ "level": 4,
+ "url": "http://jisho.org/search/%E5%AE%89%20%23kanji",
+ "translations": "relax, cheap, low, quiet, rested, contented, peaceful",
+ "kun_readings": [
+  {
+   "reading": "やす.い",
+   "url": "http://jisho.org/search/%E5%AE%89%20%E3%82%84%E3%81%99%E3%81%84"
+  },
+  {
+   "reading": "やす.まる",
+   "url": "http://jisho.org/search/%E5%AE%89%20%E3%82%84%E3%81%99%E3%81%BE%E3%82%8B"
+  },
+  {
+   "reading": "やす",
+   "url": "http://jisho.org/search/%E5%AE%89%20%E3%82%84%E3%81%99"
+  },
+  {
+   "reading": "やす.らか",
+   "url": "http://jisho.org/search/%E5%AE%89%20%E3%82%84%E3%81%99%E3%82%89%E3%81%8B"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "アン",
+   "url": "http://jisho.org/search/%E5%AE%89%20%E3%82%A2%E3%83%B3"
+  }
+ ]
+}
+{
+ "kanji": "重",
+ "level": 4,
+ "url": "http://jisho.org/search/%E9%87%8D%20%23kanji",
+ "translations": "heavy, important, esteem, respect, heap up, pile up, nest of boxes, -fold",
+ "kun_readings": [
+  {
+   "reading": "え",
+   "url": "http://jisho.org/search/%E9%87%8D%20%E3%81%88"
+  },
+  {
+   "reading": "おも.い",
+   "url": "http://jisho.org/search/%E9%87%8D%20%E3%81%8A%E3%82%82%E3%81%84"
+  },
+  {
+   "reading": "おも.り",
+   "url": "http://jisho.org/search/%E9%87%8D%20%E3%81%8A%E3%82%82%E3%82%8A"
+  },
+  {
+   "reading": "おも.なう",
+   "url": "http://jisho.org/search/%E9%87%8D%20%E3%81%8A%E3%82%82%E3%81%AA%E3%81%86"
+  },
+  {
+   "reading": "かさ.ねる",
+   "url": "http://jisho.org/search/%E9%87%8D%20%E3%81%8B%E3%81%95%E3%81%AD%E3%82%8B"
+  },
+  {
+   "reading": "かさ.なる",
+   "url": "http://jisho.org/search/%E9%87%8D%20%E3%81%8B%E3%81%95%E3%81%AA%E3%82%8B"
+  },
+  {
+   "reading": "おも",
+   "url": "http://jisho.org/search/%E9%87%8D%20%E3%81%8A%E3%82%82"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "ジュウ",
+   "url": "http://jisho.org/search/%E9%87%8D%20%E3%82%B8%E3%83%A5%E3%82%A6"
+  },
+  {
+   "reading": "チョウ",
+   "url": "http://jisho.org/search/%E9%87%8D%20%E3%83%81%E3%83%A7%E3%82%A6"
+  }
+ ]
+}
+{
+ "kanji": "赤",
+ "level": 4,
+ "url": "http://jisho.org/search/%E8%B5%A4%20%23kanji",
+ "translations": "red",
+ "kun_readings": [
+  {
+   "reading": "あか",
+   "url": "http://jisho.org/search/%E8%B5%A4%20%E3%81%82%E3%81%8B"
+  },
+  {
+   "reading": "あか-",
+   "url": "http://jisho.org/search/%E8%B5%A4%20%E3%81%82%E3%81%8B"
+  },
+  {
+   "reading": "あか.い",
+   "url": "http://jisho.org/search/%E8%B5%A4%20%E3%81%82%E3%81%8B%E3%81%84"
+  },
+  {
+   "reading": "あか.らむ",
+   "url": "http://jisho.org/search/%E8%B5%A4%20%E3%81%82%E3%81%8B%E3%82%89%E3%82%80"
+  },
+  {
+   "reading": "あか.らめる",
+   "url": "http://jisho.org/search/%E8%B5%A4%20%E3%81%82%E3%81%8B%E3%82%89%E3%82%81%E3%82%8B"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "セキ",
+   "url": "http://jisho.org/search/%E8%B5%A4%20%E3%82%BB%E3%82%AD"
+  },
+  {
+   "reading": "シャク",
+   "url": "http://jisho.org/search/%E8%B5%A4%20%E3%82%B7%E3%83%A3%E3%82%AF"
+  }
+ ]
+}
+{
+ "kanji": "青",
+ "level": 4,
+ "url": "http://jisho.org/search/%E9%9D%92%20%23kanji",
+ "translations": "blue, green",
+ "kun_readings": [
+  {
+   "reading": "あお",
+   "url": "http://jisho.org/search/%E9%9D%92%20%E3%81%82%E3%81%8A"
+  },
+  {
+   "reading": "あお-",
+   "url": "http://jisho.org/search/%E9%9D%92%20%E3%81%82%E3%81%8A"
+  },
+  {
+   "reading": "あお.い",
+   "url": "http://jisho.org/search/%E9%9D%92%20%E3%81%82%E3%81%8A%E3%81%84"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "セイ",
+   "url": "http://jisho.org/search/%E9%9D%92%20%E3%82%BB%E3%82%A4"
+  },
+  {
+   "reading": "ショウ",
+   "url": "http://jisho.org/search/%E9%9D%92%20%E3%82%B7%E3%83%A7%E3%82%A6"
+  }
+ ]
+}
+{
+ "kanji": "工",
+ "level": 4,
+ "url": "http://jisho.org/search/%E5%B7%A5%20%23kanji",
+ "translations": "craft, construction, katakana e radical (no. 48)"
+}
+{
+ "kanji": "止",
+ "level": 4,
+ "url": "http://jisho.org/search/%E6%AD%A2%20%23kanji",
+ "translations": "stop, halt",
+ "kun_readings": [
+  {
+   "reading": "と.まる",
+   "url": "http://jisho.org/search/%E6%AD%A2%20%E3%81%A8%E3%81%BE%E3%82%8B"
+  },
+  {
+   "reading": "-ど.まり",
+   "url": "http://jisho.org/search/%E6%AD%A2%20%E3%81%A9%E3%81%BE%E3%82%8A"
+  },
+  {
+   "reading": "と.める",
+   "url": "http://jisho.org/search/%E6%AD%A2%20%E3%81%A8%E3%82%81%E3%82%8B"
+  },
+  {
+   "reading": "-と.める",
+   "url": "http://jisho.org/search/%E6%AD%A2%20%E3%81%A8%E3%82%81%E3%82%8B"
+  },
+  {
+   "reading": "-ど.め",
+   "url": "http://jisho.org/search/%E6%AD%A2%20%E3%81%A9%E3%82%81"
+  },
+  {
+   "reading": "とど.める",
+   "url": "http://jisho.org/search/%E6%AD%A2%20%E3%81%A8%E3%81%A9%E3%82%81%E3%82%8B"
+  },
+  {
+   "reading": "とど.め",
+   "url": "http://jisho.org/search/%E6%AD%A2%20%E3%81%A8%E3%81%A9%E3%82%81"
+  },
+  {
+   "reading": "とど.まる",
+   "url": "http://jisho.org/search/%E6%AD%A2%20%E3%81%A8%E3%81%A9%E3%81%BE%E3%82%8B"
+  },
+  {
+   "reading": "や.める",
+   "url": "http://jisho.org/search/%E6%AD%A2%20%E3%82%84%E3%82%81%E3%82%8B"
+  },
+  {
+   "reading": "や.む",
+   "url": "http://jisho.org/search/%E6%AD%A2%20%E3%82%84%E3%82%80"
+  },
+  {
+   "reading": "-や.む",
+   "url": "http://jisho.org/search/%E6%AD%A2%20%E3%82%84%E3%82%80"
+  },
+  {
+   "reading": "よ.す",
+   "url": "http://jisho.org/search/%E6%AD%A2%20%E3%82%88%E3%81%99"
+  },
+  {
+   "reading": "-さ.す",
+   "url": "http://jisho.org/search/%E6%AD%A2%20%E3%81%95%E3%81%99"
+  },
+  {
+   "reading": "-さ.し",
+   "url": "http://jisho.org/search/%E6%AD%A2%20%E3%81%95%E3%81%97"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "シ",
+   "url": "http://jisho.org/search/%E6%AD%A2%20%E3%82%B7"
+  }
+ ]
+}
+{
+ "kanji": "集",
+ "level": 4,
+ "url": "http://jisho.org/search/%E9%9B%86%20%23kanji",
+ "translations": "gather, meet, congregate, swarm, flock",
+ "kun_readings": [
+  {
+   "reading": "あつ.まる",
+   "url": "http://jisho.org/search/%E9%9B%86%20%E3%81%82%E3%81%A4%E3%81%BE%E3%82%8B"
+  },
+  {
+   "reading": "あつ.める",
+   "url": "http://jisho.org/search/%E9%9B%86%20%E3%81%82%E3%81%A4%E3%82%81%E3%82%8B"
+  },
+  {
+   "reading": "つど.う",
+   "url": "http://jisho.org/search/%E9%9B%86%20%E3%81%A4%E3%81%A9%E3%81%86"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "シュウ",
+   "url": "http://jisho.org/search/%E9%9B%86%20%E3%82%B7%E3%83%A5%E3%82%A6"
+  }
+ ]
+}
+{
+ "kanji": "物",
+ "level": 4,
+ "url": "http://jisho.org/search/%E7%89%A9%20%23kanji",
+ "translations": "thing, object, matter",
+ "kun_readings": [
+  {
+   "reading": "もの",
+   "url": "http://jisho.org/search/%E7%89%A9%20%E3%82%82%E3%81%AE"
+  },
+  {
+   "reading": "もの-",
+   "url": "http://jisho.org/search/%E7%89%A9%20%E3%82%82%E3%81%AE"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "ブツ",
+   "url": "http://jisho.org/search/%E7%89%A9%20%E3%83%96%E3%83%84"
+  },
+  {
+   "reading": "モツ",
+   "url": "http://jisho.org/search/%E7%89%A9%20%E3%83%A2%E3%83%84"
+  }
+ ]
+}
+{
+ "kanji": "切",
+ "level": 4,
+ "url": "http://jisho.org/search/%E5%88%87%20%23kanji",
+ "translations": "cut, cutoff, be sharp",
+ "kun_readings": [
+  {
+   "reading": "き.る",
+   "url": "http://jisho.org/search/%E5%88%87%20%E3%81%8D%E3%82%8B"
+  },
+  {
+   "reading": "-き.る",
+   "url": "http://jisho.org/search/%E5%88%87%20%E3%81%8D%E3%82%8B"
+  },
+  {
+   "reading": "き.り",
+   "url": "http://jisho.org/search/%E5%88%87%20%E3%81%8D%E3%82%8A"
+  },
+  {
+   "reading": "-き.り",
+   "url": "http://jisho.org/search/%E5%88%87%20%E3%81%8D%E3%82%8A"
+  },
+  {
+   "reading": "-ぎ.り",
+   "url": "http://jisho.org/search/%E5%88%87%20%E3%81%8E%E3%82%8A"
+  },
+  {
+   "reading": "き.れる",
+   "url": "http://jisho.org/search/%E5%88%87%20%E3%81%8D%E3%82%8C%E3%82%8B"
+  },
+  {
+   "reading": "-き.れる",
+   "url": "http://jisho.org/search/%E5%88%87%20%E3%81%8D%E3%82%8C%E3%82%8B"
+  },
+  {
+   "reading": "き.れ",
+   "url": "http://jisho.org/search/%E5%88%87%20%E3%81%8D%E3%82%8C"
+  },
+  {
+   "reading": "-き.れ",
+   "url": "http://jisho.org/search/%E5%88%87%20%E3%81%8D%E3%82%8C"
+  },
+  {
+   "reading": "-ぎ.れ",
+   "url": "http://jisho.org/search/%E5%88%87%20%E3%81%8E%E3%82%8C"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "セツ",
+   "url": "http://jisho.org/search/%E5%88%87%20%E3%82%BB%E3%83%84"
+  },
+  {
+   "reading": "サイ",
+   "url": "http://jisho.org/search/%E5%88%87%20%E3%82%B5%E3%82%A4"
+  }
+ ]
+}
+{
+ "kanji": "使",
+ "level": 4,
+ "url": "http://jisho.org/search/%E4%BD%BF%20%23kanji",
+ "translations": "use, send on a mission, order, messenger, envoy, ambassador, cause",
+ "kun_readings": [
+  {
+   "reading": "つか.う",
+   "url": "http://jisho.org/search/%E4%BD%BF%20%E3%81%A4%E3%81%8B%E3%81%86"
+  },
+  {
+   "reading": "つか.い",
+   "url": "http://jisho.org/search/%E4%BD%BF%20%E3%81%A4%E3%81%8B%E3%81%84"
+  },
+  {
+   "reading": "-つか.い",
+   "url": "http://jisho.org/search/%E4%BD%BF%20%E3%81%A4%E3%81%8B%E3%81%84"
+  },
+  {
+   "reading": "-づか.い",
+   "url": "http://jisho.org/search/%E4%BD%BF%20%E3%81%A5%E3%81%8B%E3%81%84"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "シ",
+   "url": "http://jisho.org/search/%E4%BD%BF%20%E3%82%B7"
+  }
+ ]
+}
+{
+ "kanji": "品",
+ "level": 4,
+ "url": "http://jisho.org/search/%E5%93%81%20%23kanji",
+ "translations": "goods, refinement, dignity, article, counter for meal courses",
+ "kun_readings": [
+  {
+   "reading": "しな",
+   "url": "http://jisho.org/search/%E5%93%81%20%E3%81%97%E3%81%AA"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "ヒン",
+   "url": "http://jisho.org/search/%E5%93%81%20%E3%83%92%E3%83%B3"
+  },
+  {
+   "reading": "ホン",
+   "url": "http://jisho.org/search/%E5%93%81%20%E3%83%9B%E3%83%B3"
+  }
+ ]
+}
+{
+ "kanji": "死",
+ "level": 4,
+ "url": "http://jisho.org/search/%E6%AD%BB%20%23kanji",
+ "translations": "death, die",
+ "kun_readings": [
+  {
+   "reading": "し.ぬ",
+   "url": "http://jisho.org/search/%E6%AD%BB%20%E3%81%97%E3%81%AC"
+  },
+  {
+   "reading": "し.に-",
+   "url": "http://jisho.org/search/%E6%AD%BB%20%E3%81%97%E3%81%AB"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "シ",
+   "url": "http://jisho.org/search/%E6%AD%BB%20%E3%82%B7"
+  }
+ ]
+}
+{
+ "kanji": "始",
+ "level": 4,
+ "url": "http://jisho.org/search/%E5%A7%8B%20%23kanji",
+ "translations": "commence, begin",
+ "kun_readings": [
+  {
+   "reading": "はじ.める",
+   "url": "http://jisho.org/search/%E5%A7%8B%20%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B"
+  },
+  {
+   "reading": "-はじ.める",
+   "url": "http://jisho.org/search/%E5%A7%8B%20%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B"
+  },
+  {
+   "reading": "はじ.まる",
+   "url": "http://jisho.org/search/%E5%A7%8B%20%E3%81%AF%E3%81%98%E3%81%BE%E3%82%8B"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "シ",
+   "url": "http://jisho.org/search/%E5%A7%8B%20%E3%82%B7"
+  }
+ ]
+}
+{
+ "kanji": "楽",
+ "level": 4,
+ "url": "http://jisho.org/search/%E6%A5%BD%20%23kanji",
+ "translations": "music, comfort, ease",
+ "kun_readings": [
+  {
+   "reading": "たの.しい",
+   "url": "http://jisho.org/search/%E6%A5%BD%20%E3%81%9F%E3%81%AE%E3%81%97%E3%81%84"
+  },
+  {
+   "reading": "たの.しむ",
+   "url": "http://jisho.org/search/%E6%A5%BD%20%E3%81%9F%E3%81%AE%E3%81%97%E3%82%80"
+  },
+  {
+   "reading": "この.む",
+   "url": "http://jisho.org/search/%E6%A5%BD%20%E3%81%93%E3%81%AE%E3%82%80"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "ガク",
+   "url": "http://jisho.org/search/%E6%A5%BD%20%E3%82%AC%E3%82%AF"
+  },
+  {
+   "reading": "ラク",
+   "url": "http://jisho.org/search/%E6%A5%BD%20%E3%83%A9%E3%82%AF"
+  },
+  {
+   "reading": "ゴウ",
+   "url": "http://jisho.org/search/%E6%A5%BD%20%E3%82%B4%E3%82%A6"
+  }
+ ]
+}
+{
+ "kanji": "運",
+ "level": 4,
+ "url": "http://jisho.org/search/%E9%81%8B%20%23kanji",
+ "translations": "carry, luck, destiny, fate, lot, transport, progress, advance",
+ "kun_readings": [
+  {
+   "reading": "はこ.ぶ",
+   "url": "http://jisho.org/search/%E9%81%8B%20%E3%81%AF%E3%81%93%E3%81%B6"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "ウン",
+   "url": "http://jisho.org/search/%E9%81%8B%20%E3%82%A6%E3%83%B3"
+  }
+ ]
+}
+{
+ "kanji": "少",
+ "level": 4,
+ "url": "http://jisho.org/search/%E5%B0%91%20%23kanji",
+ "translations": "few, little",
+ "kun_readings": [
+  {
+   "reading": "すく.ない",
+   "url": "http://jisho.org/search/%E5%B0%91%20%E3%81%99%E3%81%8F%E3%81%AA%E3%81%84"
+  },
+  {
+   "reading": "すこ.し",
+   "url": "http://jisho.org/search/%E5%B0%91%20%E3%81%99%E3%81%93%E3%81%97"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "ショウ",
+   "url": "http://jisho.org/search/%E5%B0%91%20%E3%82%B7%E3%83%A7%E3%82%A6"
+  }
+ ]
+}
+{
+ "kanji": "終",
+ "level": 4,
+ "url": "http://jisho.org/search/%E7%B5%82%20%23kanji",
+ "translations": "end, finish",
+ "kun_readings": [
+  {
+   "reading": "お.わる",
+   "url": "http://jisho.org/search/%E7%B5%82%20%E3%81%8A%E3%82%8F%E3%82%8B"
+  },
+  {
+   "reading": "-お.わる",
+   "url": "http://jisho.org/search/%E7%B5%82%20%E3%81%8A%E3%82%8F%E3%82%8B"
+  },
+  {
+   "reading": "おわ.る",
+   "url": "http://jisho.org/search/%E7%B5%82%20%E3%81%8A%E3%82%8F%E3%82%8B"
+  },
+  {
+   "reading": "お.える",
+   "url": "http://jisho.org/search/%E7%B5%82%20%E3%81%8A%E3%81%88%E3%82%8B"
+  },
+  {
+   "reading": "つい",
+   "url": "http://jisho.org/search/%E7%B5%82%20%E3%81%A4%E3%81%84"
+  },
+  {
+   "reading": "つい.に",
+   "url": "http://jisho.org/search/%E7%B5%82%20%E3%81%A4%E3%81%84%E3%81%AB"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "シュウ",
+   "url": "http://jisho.org/search/%E7%B5%82%20%E3%82%B7%E3%83%A5%E3%82%A6"
+  }
+ ]
+}
+{
+ "kanji": "花",
+ "level": 4,
+ "url": "http://jisho.org/search/%E8%8A%B1%20%23kanji",
+ "translations": "flower",
+ "kun_readings": [
+  {
+   "reading": "はな",
+   "url": "http://jisho.org/search/%E8%8A%B1%20%E3%81%AF%E3%81%AA"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "カ",
+   "url": "http://jisho.org/search/%E8%8A%B1%20%E3%82%AB"
+  },
+  {
+   "reading": "ケ",
+   "url": "http://jisho.org/search/%E8%8A%B1%20%E3%82%B1"
+  }
+ ]
+}
+{
+ "kanji": "住",
+ "level": 4,
+ "url": "http://jisho.org/search/%E4%BD%8F%20%23kanji",
+ "translations": "dwell, reside, live, inhabit",
+ "kun_readings": [
+  {
+   "reading": "す.む",
+   "url": "http://jisho.org/search/%E4%BD%8F%20%E3%81%99%E3%82%80"
+  },
+  {
+   "reading": "す.まう",
+   "url": "http://jisho.org/search/%E4%BD%8F%20%E3%81%99%E3%81%BE%E3%81%86"
+  },
+  {
+   "reading": "-ず.まい",
+   "url": "http://jisho.org/search/%E4%BD%8F%20%E3%81%9A%E3%81%BE%E3%81%84"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "ジュウ",
+   "url": "http://jisho.org/search/%E4%BD%8F%20%E3%82%B8%E3%83%A5%E3%82%A6"
+  },
+  {
+   "reading": "ヂュウ",
+   "url": "http://jisho.org/search/%E4%BD%8F%20%E3%83%82%E3%83%A5%E3%82%A6"
+  },
+  {
+   "reading": "チュウ",
+   "url": "http://jisho.org/search/%E4%BD%8F%20%E3%83%81%E3%83%A5%E3%82%A6"
+  }
+ ]
+}
+{
+ "kanji": "親",
+ "level": 4,
+ "url": "http://jisho.org/search/%E8%A6%AA%20%23kanji",
+ "translations": "parent, intimacy, relative, familiarity, dealer (cards)",
+ "kun_readings": [
+  {
+   "reading": "おや",
+   "url": "http://jisho.org/search/%E8%A6%AA%20%E3%81%8A%E3%82%84"
+  },
+  {
+   "reading": "おや-",
+   "url": "http://jisho.org/search/%E8%A6%AA%20%E3%81%8A%E3%82%84"
+  },
+  {
+   "reading": "した.しい",
+   "url": "http://jisho.org/search/%E8%A6%AA%20%E3%81%97%E3%81%9F%E3%81%97%E3%81%84"
+  },
+  {
+   "reading": "した.しむ",
+   "url": "http://jisho.org/search/%E8%A6%AA%20%E3%81%97%E3%81%9F%E3%81%97%E3%82%80"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "シン",
+   "url": "http://jisho.org/search/%E8%A6%AA%20%E3%82%B7%E3%83%B3"
+  }
+ ]
+}
+{
+ "kanji": "真",
+ "level": 4,
+ "url": "http://jisho.org/search/%E7%9C%9F%20%23kanji",
+ "translations": "true, reality, Buddhist sect",
+ "kun_readings": [
+  {
+   "reading": "ま",
+   "url": "http://jisho.org/search/%E7%9C%9F%20%E3%81%BE"
+  },
+  {
+   "reading": "ま-",
+   "url": "http://jisho.org/search/%E7%9C%9F%20%E3%81%BE"
+  },
+  {
+   "reading": "まこと",
+   "url": "http://jisho.org/search/%E7%9C%9F%20%E3%81%BE%E3%81%93%E3%81%A8"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "シン",
+   "url": "http://jisho.org/search/%E7%9C%9F%20%E3%82%B7%E3%83%B3"
+  }
+ ]
+}
+{
+ "kanji": "有",
+ "level": 4,
+ "url": "http://jisho.org/search/%E6%9C%89%20%23kanji",
+ "translations": "possess, have, exist, happen, occur, approx",
+ "kun_readings": [
+  {
+   "reading": "あ.る",
+   "url": "http://jisho.org/search/%E6%9C%89%20%E3%81%82%E3%82%8B"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "ユウ",
+   "url": "http://jisho.org/search/%E6%9C%89%20%E3%83%A6%E3%82%A6"
+  },
+  {
+   "reading": "ウ",
+   "url": "http://jisho.org/search/%E6%9C%89%20%E3%82%A6"
+  }
+ ]
+}
+{
+ "kanji": "別",
+ "level": 4,
+ "url": "http://jisho.org/search/%E5%88%A5%20%23kanji",
+ "translations": "separate, branch off, diverge, fork, another, extra, specially",
+ "kun_readings": [
+  {
+   "reading": "わか.れる",
+   "url": "http://jisho.org/search/%E5%88%A5%20%E3%82%8F%E3%81%8B%E3%82%8C%E3%82%8B"
+  },
+  {
+   "reading": "わ.ける",
+   "url": "http://jisho.org/search/%E5%88%A5%20%E3%82%8F%E3%81%91%E3%82%8B"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "ベツ",
+   "url": "http://jisho.org/search/%E5%88%A5%20%E3%83%99%E3%83%84"
+  }
+ ]
+}
+{
+ "kanji": "夕",
+ "level": 4,
+ "url": "http://jisho.org/search/%E5%A4%95%20%23kanji",
+ "translations": "evening",
+ "kun_readings": [
+  {
+   "reading": "ゆう",
+   "url": "http://jisho.org/search/%E5%A4%95%20%E3%82%86%E3%81%86"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "セキ",
+   "url": "http://jisho.org/search/%E5%A4%95%20%E3%82%BB%E3%82%AD"
+  }
+ ]
+}
+{
+ "kanji": "急",
+ "level": 4,
+ "url": "http://jisho.org/search/%E6%80%A5%20%23kanji",
+ "translations": "hurry, emergency, sudden, steep",
+ "kun_readings": [
+  {
+   "reading": "いそ.ぐ",
+   "url": "http://jisho.org/search/%E6%80%A5%20%E3%81%84%E3%81%9D%E3%81%90"
+  },
+  {
+   "reading": "いそ.ぎ",
+   "url": "http://jisho.org/search/%E6%80%A5%20%E3%81%84%E3%81%9D%E3%81%8E"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "キュウ",
+   "url": "http://jisho.org/search/%E6%80%A5%20%E3%82%AD%E3%83%A5%E3%82%A6"
+  }
+ ]
+}
+{
+ "kanji": "送",
+ "level": 4,
+ "url": "http://jisho.org/search/%E9%80%81%20%23kanji",
+ "translations": "escort, send",
+ "kun_readings": [
+  {
+   "reading": "おく.る",
+   "url": "http://jisho.org/search/%E9%80%81%20%E3%81%8A%E3%81%8F%E3%82%8B"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "ソウ",
+   "url": "http://jisho.org/search/%E9%80%81%20%E3%82%BD%E3%82%A6"
+  }
+ ]
+}
+{
+ "kanji": "特",
+ "level": 4,
+ "url": "http://jisho.org/search/%E7%89%B9%20%23kanji",
+ "translations": "special"
+}
+{
+ "kanji": "答",
+ "level": 4,
+ "url": "http://jisho.org/search/%E7%AD%94%20%23kanji",
+ "translations": "solution, answer",
+ "kun_readings": [
+  {
+   "reading": "こた.える",
+   "url": "http://jisho.org/search/%E7%AD%94%20%E3%81%93%E3%81%9F%E3%81%88%E3%82%8B"
+  },
+  {
+   "reading": "こた.え",
+   "url": "http://jisho.org/search/%E7%AD%94%20%E3%81%93%E3%81%9F%E3%81%88"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "トウ",
+   "url": "http://jisho.org/search/%E7%AD%94%20%E3%83%88%E3%82%A6"
+  }
+ ]
+}
+{
+ "kanji": "夜",
+ "level": 4,
+ "url": "http://jisho.org/search/%E5%A4%9C%20%23kanji",
+ "translations": "night, evening",
+ "kun_readings": [
+  {
+   "reading": "よ",
+   "url": "http://jisho.org/search/%E5%A4%9C%20%E3%82%88"
+  },
+  {
+   "reading": "よる",
+   "url": "http://jisho.org/search/%E5%A4%9C%20%E3%82%88%E3%82%8B"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "ヤ",
+   "url": "http://jisho.org/search/%E5%A4%9C%20%E3%83%A4"
+  }
+ ]
+}
+{
+ "kanji": "転",
+ "level": 4,
+ "url": "http://jisho.org/search/%E8%BB%A2%20%23kanji",
+ "translations": "revolve, turn around, change",
+ "kun_readings": [
+  {
+   "reading": "ころ.がる",
+   "url": "http://jisho.org/search/%E8%BB%A2%20%E3%81%93%E3%82%8D%E3%81%8C%E3%82%8B"
+  },
+  {
+   "reading": "ころ.げる",
+   "url": "http://jisho.org/search/%E8%BB%A2%20%E3%81%93%E3%82%8D%E3%81%92%E3%82%8B"
+  },
+  {
+   "reading": "ころ.がす",
+   "url": "http://jisho.org/search/%E8%BB%A2%20%E3%81%93%E3%82%8D%E3%81%8C%E3%81%99"
+  },
+  {
+   "reading": "ころ.ぶ",
+   "url": "http://jisho.org/search/%E8%BB%A2%20%E3%81%93%E3%82%8D%E3%81%B6"
+  },
+  {
+   "reading": "まろ.ぶ",
+   "url": "http://jisho.org/search/%E8%BB%A2%20%E3%81%BE%E3%82%8D%E3%81%B6"
+  },
+  {
+   "reading": "うたた",
+   "url": "http://jisho.org/search/%E8%BB%A2%20%E3%81%86%E3%81%9F%E3%81%9F"
+  },
+  {
+   "reading": "うつ.る",
+   "url": "http://jisho.org/search/%E8%BB%A2%20%E3%81%86%E3%81%A4%E3%82%8B"
+  },
+  {
+   "reading": "くる.めく",
+   "url": "http://jisho.org/search/%E8%BB%A2%20%E3%81%8F%E3%82%8B%E3%82%81%E3%81%8F"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "テン",
+   "url": "http://jisho.org/search/%E8%BB%A2%20%E3%83%86%E3%83%B3"
+  }
+ ]
+}
+{
+ "kanji": "店",
+ "level": 4,
+ "url": "http://jisho.org/search/%E5%BA%97%20%23kanji",
+ "translations": "store, shop",
+ "kun_readings": [
+  {
+   "reading": "みせ",
+   "url": "http://jisho.org/search/%E5%BA%97%20%E3%81%BF%E3%81%9B"
+  },
+  {
+   "reading": "たな",
+   "url": "http://jisho.org/search/%E5%BA%97%20%E3%81%9F%E3%81%AA"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "テン",
+   "url": "http://jisho.org/search/%E5%BA%97%20%E3%83%86%E3%83%B3"
+  }
+ ]
+}
+{
+ "kanji": "帰",
+ "level": 4,
+ "url": "http://jisho.org/search/%E5%B8%B0%20%23kanji",
+ "translations": "homecoming, arrive at, lead to, result in",
+ "kun_readings": [
+  {
+   "reading": "かえ.る",
+   "url": "http://jisho.org/search/%E5%B8%B0%20%E3%81%8B%E3%81%88%E3%82%8B"
+  },
+  {
+   "reading": "かえ.す",
+   "url": "http://jisho.org/search/%E5%B8%B0%20%E3%81%8B%E3%81%88%E3%81%99"
+  },
+  {
+   "reading": "おく.る",
+   "url": "http://jisho.org/search/%E5%B8%B0%20%E3%81%8A%E3%81%8F%E3%82%8B"
+  },
+  {
+   "reading": "とつ.ぐ",
+   "url": "http://jisho.org/search/%E5%B8%B0%20%E3%81%A8%E3%81%A4%E3%81%90"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "キ",
+   "url": "http://jisho.org/search/%E5%B8%B0%20%E3%82%AD"
+  }
+ ]
+}
+{
+ "kanji": "研",
+ "level": 4,
+ "url": "http://jisho.org/search/%E7%A0%94%20%23kanji",
+ "translations": "polish, study of, sharpen",
+ "kun_readings": [
+  {
+   "reading": "と.ぐ",
+   "url": "http://jisho.org/search/%E7%A0%94%20%E3%81%A8%E3%81%90"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "ケン",
+   "url": "http://jisho.org/search/%E7%A0%94%20%E3%82%B1%E3%83%B3"
+  }
+ ]
+}
+{
+ "kanji": "歌",
+ "level": 4,
+ "url": "http://jisho.org/search/%E6%AD%8C%20%23kanji",
+ "translations": "song, sing",
+ "kun_readings": [
+  {
+   "reading": "うた",
+   "url": "http://jisho.org/search/%E6%AD%8C%20%E3%81%86%E3%81%9F"
+  },
+  {
+   "reading": "うた.う",
+   "url": "http://jisho.org/search/%E6%AD%8C%20%E3%81%86%E3%81%9F%E3%81%86"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "カ",
+   "url": "http://jisho.org/search/%E6%AD%8C%20%E3%82%AB"
+  }
+ ]
+}
+{
+ "kanji": "図",
+ "level": 4,
+ "url": "http://jisho.org/search/%E5%9B%B3%20%23kanji",
+ "translations": "map, drawing, plan, extraordinary, audacious",
+ "kun_readings": [
+  {
+   "reading": "え",
+   "url": "http://jisho.org/search/%E5%9B%B3%20%E3%81%88"
+  },
+  {
+   "reading": "はか.る",
+   "url": "http://jisho.org/search/%E5%9B%B3%20%E3%81%AF%E3%81%8B%E3%82%8B"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "ズ",
+   "url": "http://jisho.org/search/%E5%9B%B3%20%E3%82%BA"
+  },
+  {
+   "reading": "ト",
+   "url": "http://jisho.org/search/%E5%9B%B3%20%E3%83%88"
+  }
+ ]
+}
+{
+ "kanji": "室",
+ "level": 4,
+ "url": "http://jisho.org/search/%E5%AE%A4%20%23kanji",
+ "translations": "room, apartment, chamber, greenhouse, cellar",
+ "kun_readings": [
+  {
+   "reading": "むろ",
+   "url": "http://jisho.org/search/%E5%AE%A4%20%E3%82%80%E3%82%8D"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "シツ",
+   "url": "http://jisho.org/search/%E5%AE%A4%20%E3%82%B7%E3%83%84"
+  }
+ ]
+}
+{
+ "kanji": "究",
+ "level": 4,
+ "url": "http://jisho.org/search/%E7%A9%B6%20%23kanji",
+ "translations": "research, study",
+ "kun_readings": [
+  {
+   "reading": "きわ.める",
+   "url": "http://jisho.org/search/%E7%A9%B6%20%E3%81%8D%E3%82%8F%E3%82%81%E3%82%8B"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "キュウ",
+   "url": "http://jisho.org/search/%E7%A9%B6%20%E3%82%AD%E3%83%A5%E3%82%A6"
+  },
+  {
+   "reading": "ク",
+   "url": "http://jisho.org/search/%E7%A9%B6%20%E3%82%AF"
+  }
+ ]
+}
+{
+ "kanji": "歩",
+ "level": 4,
+ "url": "http://jisho.org/search/%E6%AD%A9%20%23kanji",
+ "translations": "walk, counter for steps",
+ "kun_readings": [
+  {
+   "reading": "ある.く",
+   "url": "http://jisho.org/search/%E6%AD%A9%20%E3%81%82%E3%82%8B%E3%81%8F"
+  },
+  {
+   "reading": "あゆ.む",
+   "url": "http://jisho.org/search/%E6%AD%A9%20%E3%81%82%E3%82%86%E3%82%80"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "ホ",
+   "url": "http://jisho.org/search/%E6%AD%A9%20%E3%83%9B"
+  },
+  {
+   "reading": "ブ",
+   "url": "http://jisho.org/search/%E6%AD%A9%20%E3%83%96"
+  },
+  {
+   "reading": "フ",
+   "url": "http://jisho.org/search/%E6%AD%A9%20%E3%83%95"
+  }
+ ]
+}
+{
+ "kanji": "風",
+ "level": 4,
+ "url": "http://jisho.org/search/%E9%A2%A8%20%23kanji",
+ "translations": "wind, air, style, manner",
+ "kun_readings": [
+  {
+   "reading": "かぜ",
+   "url": "http://jisho.org/search/%E9%A2%A8%20%E3%81%8B%E3%81%9C"
+  },
+  {
+   "reading": "かざ-",
+   "url": "http://jisho.org/search/%E9%A2%A8%20%E3%81%8B%E3%81%96"
+  },
+  {
+   "reading": "-かぜ",
+   "url": "http://jisho.org/search/%E9%A2%A8%20%E3%81%8B%E3%81%9C"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "フウ",
+   "url": "http://jisho.org/search/%E9%A2%A8%20%E3%83%95%E3%82%A6"
+  },
+  {
+   "reading": "フ",
+   "url": "http://jisho.org/search/%E9%A2%A8%20%E3%83%95"
+  }
+ ]
+}
+{
+ "kanji": "紙",
+ "level": 4,
+ "url": "http://jisho.org/search/%E7%B4%99%20%23kanji",
+ "translations": "paper",
+ "kun_readings": [
+  {
+   "reading": "かみ",
+   "url": "http://jisho.org/search/%E7%B4%99%20%E3%81%8B%E3%81%BF"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "シ",
+   "url": "http://jisho.org/search/%E7%B4%99%20%E3%82%B7"
+  }
+ ]
+}
+{
+ "kanji": "起",
+ "level": 4,
+ "url": "http://jisho.org/search/%E8%B5%B7%20%23kanji",
+ "translations": "rouse, wake up, get up",
+ "kun_readings": [
+  {
+   "reading": "お.きる",
+   "url": "http://jisho.org/search/%E8%B5%B7%20%E3%81%8A%E3%81%8D%E3%82%8B"
+  },
+  {
+   "reading": "お.こる",
+   "url": "http://jisho.org/search/%E8%B5%B7%20%E3%81%8A%E3%81%93%E3%82%8B"
+  },
+  {
+   "reading": "お.こす",
+   "url": "http://jisho.org/search/%E8%B5%B7%20%E3%81%8A%E3%81%93%E3%81%99"
+  },
+  {
+   "reading": "おこ.す",
+   "url": "http://jisho.org/search/%E8%B5%B7%20%E3%81%8A%E3%81%93%E3%81%99"
+  },
+  {
+   "reading": "た.つ",
+   "url": "http://jisho.org/search/%E8%B5%B7%20%E3%81%9F%E3%81%A4"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "キ",
+   "url": "http://jisho.org/search/%E8%B5%B7%20%E3%82%AD"
+  }
+ ]
+}
+{
+ "kanji": "着",
+ "level": 4,
+ "url": "http://jisho.org/search/%E7%9D%80%20%23kanji",
+ "translations": "don, arrive, wear, counter for suits of clothing",
+ "kun_readings": [
+  {
+   "reading": "き.る",
+   "url": "http://jisho.org/search/%E7%9D%80%20%E3%81%8D%E3%82%8B"
+  },
+  {
+   "reading": "-ぎ",
+   "url": "http://jisho.org/search/%E7%9D%80%20%E3%81%8E"
+  },
+  {
+   "reading": "き.せる",
+   "url": "http://jisho.org/search/%E7%9D%80%20%E3%81%8D%E3%81%9B%E3%82%8B"
+  },
+  {
+   "reading": "-き.せ",
+   "url": "http://jisho.org/search/%E7%9D%80%20%E3%81%8D%E3%81%9B"
+  },
+  {
+   "reading": "つ.く",
+   "url": "http://jisho.org/search/%E7%9D%80%20%E3%81%A4%E3%81%8F"
+  },
+  {
+   "reading": "つ.ける",
+   "url": "http://jisho.org/search/%E7%9D%80%20%E3%81%A4%E3%81%91%E3%82%8B"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "チャク",
+   "url": "http://jisho.org/search/%E7%9D%80%20%E3%83%81%E3%83%A3%E3%82%AF"
+  },
+  {
+   "reading": "ジャク",
+   "url": "http://jisho.org/search/%E7%9D%80%20%E3%82%B8%E3%83%A3%E3%82%AF"
+  }
+ ]
+}
+{
+ "kanji": "黒",
+ "level": 4,
+ "url": "http://jisho.org/search/%E9%BB%92%20%23kanji",
+ "translations": "black",
+ "kun_readings": [
+  {
+   "reading": "くろ",
+   "url": "http://jisho.org/search/%E9%BB%92%20%E3%81%8F%E3%82%8D"
+  },
+  {
+   "reading": "くろ.ずむ",
+   "url": "http://jisho.org/search/%E9%BB%92%20%E3%81%8F%E3%82%8D%E3%81%9A%E3%82%80"
+  },
+  {
+   "reading": "くろ.い",
+   "url": "http://jisho.org/search/%E9%BB%92%20%E3%81%8F%E3%82%8D%E3%81%84"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "コク",
+   "url": "http://jisho.org/search/%E9%BB%92%20%E3%82%B3%E3%82%AF"
+  }
+ ]
+}
+{
+ "kanji": "病",
+ "level": 4,
+ "url": "http://jisho.org/search/%E7%97%85%20%23kanji",
+ "translations": "ill, sick",
+ "kun_readings": [
+  {
+   "reading": "や.む",
+   "url": "http://jisho.org/search/%E7%97%85%20%E3%82%84%E3%82%80"
+  },
+  {
+   "reading": "-や.み",
+   "url": "http://jisho.org/search/%E7%97%85%20%E3%82%84%E3%81%BF"
+  },
+  {
+   "reading": "やまい",
+   "url": "http://jisho.org/search/%E7%97%85%20%E3%82%84%E3%81%BE%E3%81%84"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "ビョウ",
+   "url": "http://jisho.org/search/%E7%97%85%20%E3%83%93%E3%83%A7%E3%82%A6"
+  },
+  {
+   "reading": "ヘイ",
+   "url": "http://jisho.org/search/%E7%97%85%20%E3%83%98%E3%82%A4"
+  }
+ ]
+}
+{
+ "kanji": "春",
+ "level": 4,
+ "url": "http://jisho.org/search/%E6%98%A5%20%23kanji",
+ "translations": "springtime, spring (season)",
+ "kun_readings": [
+  {
+   "reading": "はる",
+   "url": "http://jisho.org/search/%E6%98%A5%20%E3%81%AF%E3%82%8B"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "シュン",
+   "url": "http://jisho.org/search/%E6%98%A5%20%E3%82%B7%E3%83%A5%E3%83%B3"
+  }
+ ]
+}
+{
+ "kanji": "待",
+ "level": 4,
+ "url": "http://jisho.org/search/%E5%BE%85%20%23kanji",
+ "translations": "wait, depend on",
+ "kun_readings": [
+  {
+   "reading": "ま.つ",
+   "url": "http://jisho.org/search/%E5%BE%85%20%E3%81%BE%E3%81%A4"
+  },
+  {
+   "reading": "-ま.ち",
+   "url": "http://jisho.org/search/%E5%BE%85%20%E3%81%BE%E3%81%A1"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "タイ",
+   "url": "http://jisho.org/search/%E5%BE%85%20%E3%82%BF%E3%82%A4"
+  }
+ ]
+}
+{
+ "kanji": "族",
+ "level": 4,
+ "url": "http://jisho.org/search/%E6%97%8F%20%23kanji",
+ "translations": "tribe, family"
+}
+{
+ "kanji": "料",
+ "level": 4,
+ "url": "http://jisho.org/search/%E6%96%99%20%23kanji",
+ "translations": "fee, materials"
+}
+{
+ "kanji": "銀",
+ "level": 4,
+ "url": "http://jisho.org/search/%E9%8A%80%20%23kanji",
+ "translations": "silver",
+ "kun_readings": [
+  {
+   "reading": "しろがね",
+   "url": "http://jisho.org/search/%E9%8A%80%20%E3%81%97%E3%82%8D%E3%81%8C%E3%81%AD"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "ギン",
+   "url": "http://jisho.org/search/%E9%8A%80%20%E3%82%AE%E3%83%B3"
+  }
+ ]
+}
+{
+ "kanji": "建",
+ "level": 4,
+ "url": "http://jisho.org/search/%E5%BB%BA%20%23kanji",
+ "translations": "build",
+ "kun_readings": [
+  {
+   "reading": "た.てる",
+   "url": "http://jisho.org/search/%E5%BB%BA%20%E3%81%9F%E3%81%A6%E3%82%8B"
+  },
+  {
+   "reading": "た.て",
+   "url": "http://jisho.org/search/%E5%BB%BA%20%E3%81%9F%E3%81%A6"
+  },
+  {
+   "reading": "-だ.て",
+   "url": "http://jisho.org/search/%E5%BB%BA%20%E3%81%A0%E3%81%A6"
+  },
+  {
+   "reading": "た.つ",
+   "url": "http://jisho.org/search/%E5%BB%BA%20%E3%81%9F%E3%81%A4"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "ケン",
+   "url": "http://jisho.org/search/%E5%BB%BA%20%E3%82%B1%E3%83%B3"
+  },
+  {
+   "reading": "コン",
+   "url": "http://jisho.org/search/%E5%BB%BA%20%E3%82%B3%E3%83%B3"
+  }
+ ]
+}
+{
+ "kanji": "色",
+ "level": 4,
+ "url": "http://jisho.org/search/%E8%89%B2%20%23kanji",
+ "translations": "color",
+ "kun_readings": [
+  {
+   "reading": "いろ",
+   "url": "http://jisho.org/search/%E8%89%B2%20%E3%81%84%E3%82%8D"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "ショク",
+   "url": "http://jisho.org/search/%E8%89%B2%20%E3%82%B7%E3%83%A7%E3%82%AF"
+  },
+  {
+   "reading": "シキ",
+   "url": "http://jisho.org/search/%E8%89%B2%20%E3%82%B7%E3%82%AD"
+  }
+ ]
+}
+{
+ "kanji": "走",
+ "level": 4,
+ "url": "http://jisho.org/search/%E8%B5%B0%20%23kanji",
+ "translations": "run",
+ "kun_readings": [
+  {
+   "reading": "はし.る",
+   "url": "http://jisho.org/search/%E8%B5%B0%20%E3%81%AF%E3%81%97%E3%82%8B"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "ソウ",
+   "url": "http://jisho.org/search/%E8%B5%B0%20%E3%82%BD%E3%82%A6"
+  }
+ ]
+}
+{
+ "kanji": "秋",
+ "level": 4,
+ "url": "http://jisho.org/search/%E7%A7%8B%20%23kanji",
+ "translations": "autumn",
+ "kun_readings": [
+  {
+   "reading": "あき",
+   "url": "http://jisho.org/search/%E7%A7%8B%20%E3%81%82%E3%81%8D"
+  },
+  {
+   "reading": "とき",
+   "url": "http://jisho.org/search/%E7%A7%8B%20%E3%81%A8%E3%81%8D"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "シュウ",
+   "url": "http://jisho.org/search/%E7%A7%8B%20%E3%82%B7%E3%83%A5%E3%82%A6"
+  }
+ ]
+}
+{
+ "kanji": "医",
+ "level": 4,
+ "url": "http://jisho.org/search/%E5%8C%BB%20%23kanji",
+ "translations": "doctor, medicine",
+ "kun_readings": [
+  {
+   "reading": "い.やす",
+   "url": "http://jisho.org/search/%E5%8C%BB%20%E3%81%84%E3%82%84%E3%81%99"
+  },
+  {
+   "reading": "い.する",
+   "url": "http://jisho.org/search/%E5%8C%BB%20%E3%81%84%E3%81%99%E3%82%8B"
+  },
+  {
+   "reading": "くすし",
+   "url": "http://jisho.org/search/%E5%8C%BB%20%E3%81%8F%E3%81%99%E3%81%97"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "イ",
+   "url": "http://jisho.org/search/%E5%8C%BB%20%E3%82%A4"
+  }
+ ]
+}
+{
+ "kanji": "仕",
+ "level": 4,
+ "url": "http://jisho.org/search/%E4%BB%95%20%23kanji",
+ "translations": "attend, doing, official, serve",
+ "kun_readings": [
+  {
+   "reading": "つか.える",
+   "url": "http://jisho.org/search/%E4%BB%95%20%E3%81%A4%E3%81%8B%E3%81%88%E3%82%8B"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "シ",
+   "url": "http://jisho.org/search/%E4%BB%95%20%E3%82%B7"
+  },
+  {
+   "reading": "ジ",
+   "url": "http://jisho.org/search/%E4%BB%95%20%E3%82%B8"
+  }
+ ]
+}
+{
+ "kanji": "夏",
+ "level": 4,
+ "url": "http://jisho.org/search/%E5%A4%8F%20%23kanji",
+ "translations": "summer",
+ "kun_readings": [
+  {
+   "reading": "なつ",
+   "url": "http://jisho.org/search/%E5%A4%8F%20%E3%81%AA%E3%81%A4"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "カ",
+   "url": "http://jisho.org/search/%E5%A4%8F%20%E3%82%AB"
+  },
+  {
+   "reading": "ガ",
+   "url": "http://jisho.org/search/%E5%A4%8F%20%E3%82%AC"
+  },
+  {
+   "reading": "ゲ",
+   "url": "http://jisho.org/search/%E5%A4%8F%20%E3%82%B2"
+  }
+ ]
+}
+{
+ "kanji": "去",
+ "level": 4,
+ "url": "http://jisho.org/search/%E5%8E%BB%20%23kanji",
+ "translations": "gone, past, quit, leave, elapse, eliminate, divorce",
+ "kun_readings": [
+  {
+   "reading": "さ.る",
+   "url": "http://jisho.org/search/%E5%8E%BB%20%E3%81%95%E3%82%8B"
+  },
+  {
+   "reading": "-さ.る",
+   "url": "http://jisho.org/search/%E5%8E%BB%20%E3%81%95%E3%82%8B"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "キョ",
+   "url": "http://jisho.org/search/%E5%8E%BB%20%E3%82%AD%E3%83%A7"
+  },
+  {
+   "reading": "コ",
+   "url": "http://jisho.org/search/%E5%8E%BB%20%E3%82%B3"
+  }
+ ]
+}
+{
+ "kanji": "味",
+ "level": 4,
+ "url": "http://jisho.org/search/%E5%91%B3%20%23kanji",
+ "translations": "flavor, taste",
+ "kun_readings": [
+  {
+   "reading": "あじ",
+   "url": "http://jisho.org/search/%E5%91%B3%20%E3%81%82%E3%81%98"
+  },
+  {
+   "reading": "あじ.わう",
+   "url": "http://jisho.org/search/%E5%91%B3%20%E3%81%82%E3%81%98%E3%82%8F%E3%81%86"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "ミ",
+   "url": "http://jisho.org/search/%E5%91%B3%20%E3%83%9F"
+  }
+ ]
+}
+{
+ "kanji": "犬",
+ "level": 4,
+ "url": "http://jisho.org/search/%E7%8A%AC%20%23kanji",
+ "translations": "dog",
+ "kun_readings": [
+  {
+   "reading": "いぬ",
+   "url": "http://jisho.org/search/%E7%8A%AC%20%E3%81%84%E3%81%AC"
+  },
+  {
+   "reading": "いぬ-",
+   "url": "http://jisho.org/search/%E7%8A%AC%20%E3%81%84%E3%81%AC"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "ケン",
+   "url": "http://jisho.org/search/%E7%8A%AC%20%E3%82%B1%E3%83%B3"
+  }
+ ]
+}
+{
+ "kanji": "古",
+ "level": 4,
+ "url": "http://jisho.org/search/%E5%8F%A4%20%23kanji",
+ "translations": "old",
+ "kun_readings": [
+  {
+   "reading": "ふる.い",
+   "url": "http://jisho.org/search/%E5%8F%A4%20%E3%81%B5%E3%82%8B%E3%81%84"
+  },
+  {
+   "reading": "ふる-",
+   "url": "http://jisho.org/search/%E5%8F%A4%20%E3%81%B5%E3%82%8B"
+  },
+  {
+   "reading": "-ふる.す",
+   "url": "http://jisho.org/search/%E5%8F%A4%20%E3%81%B5%E3%82%8B%E3%81%99"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "コ",
+   "url": "http://jisho.org/search/%E5%8F%A4%20%E3%82%B3"
+  }
+ ]
+}
+{
+ "kanji": "写",
+ "level": 4,
+ "url": "http://jisho.org/search/%E5%86%99%20%23kanji",
+ "translations": "copy, be photographed, describe",
+ "kun_readings": [
+  {
+   "reading": "うつ.す",
+   "url": "http://jisho.org/search/%E5%86%99%20%E3%81%86%E3%81%A4%E3%81%99"
+  },
+  {
+   "reading": "うつ.る",
+   "url": "http://jisho.org/search/%E5%86%99%20%E3%81%86%E3%81%A4%E3%82%8B"
+  },
+  {
+   "reading": "うつ-",
+   "url": "http://jisho.org/search/%E5%86%99%20%E3%81%86%E3%81%A4"
+  },
+  {
+   "reading": "うつ.し",
+   "url": "http://jisho.org/search/%E5%86%99%20%E3%81%86%E3%81%A4%E3%81%97"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "シャ",
+   "url": "http://jisho.org/search/%E5%86%99%20%E3%82%B7%E3%83%A3"
+  },
+  {
+   "reading": "ジャ",
+   "url": "http://jisho.org/search/%E5%86%99%20%E3%82%B8%E3%83%A3"
+  }
+ ]
+}
+{
+ "kanji": "買",
+ "level": 4,
+ "url": "http://jisho.org/search/%E8%B2%B7%20%23kanji",
+ "translations": "buy",
+ "kun_readings": [
+  {
+   "reading": "か.う",
+   "url": "http://jisho.org/search/%E8%B2%B7%20%E3%81%8B%E3%81%86"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "バイ",
+   "url": "http://jisho.org/search/%E8%B2%B7%20%E3%83%90%E3%82%A4"
+  }
+ ]
+}
+{
+ "kanji": "週",
+ "level": 4,
+ "url": "http://jisho.org/search/%E9%80%B1%20%23kanji",
+ "translations": "week"
+}
+{
+ "kanji": "私",
+ "level": 4,
+ "url": "http://jisho.org/search/%E7%A7%81%20%23kanji",
+ "translations": "private, I, me",
+ "kun_readings": [
+  {
+   "reading": "わたくし",
+   "url": "http://jisho.org/search/%E7%A7%81%20%E3%82%8F%E3%81%9F%E3%81%8F%E3%81%97"
+  },
+  {
+   "reading": "わたし",
+   "url": "http://jisho.org/search/%E7%A7%81%20%E3%82%8F%E3%81%9F%E3%81%97"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "シ",
+   "url": "http://jisho.org/search/%E7%A7%81%20%E3%82%B7"
+  }
+ ]
+}
+{
+ "kanji": "注",
+ "level": 4,
+ "url": "http://jisho.org/search/%E6%B3%A8%20%23kanji",
+ "translations": "pour, irrigate, shed (tears), flow into, concentrate on, notes, comment, annotate",
+ "kun_readings": [
+  {
+   "reading": "そそ.ぐ",
+   "url": "http://jisho.org/search/%E6%B3%A8%20%E3%81%9D%E3%81%9D%E3%81%90"
+  },
+  {
+   "reading": "さ.す",
+   "url": "http://jisho.org/search/%E6%B3%A8%20%E3%81%95%E3%81%99"
+  },
+  {
+   "reading": "つ.ぐ",
+   "url": "http://jisho.org/search/%E6%B3%A8%20%E3%81%A4%E3%81%90"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "チュウ",
+   "url": "http://jisho.org/search/%E6%B3%A8%20%E3%83%81%E3%83%A5%E3%82%A6"
+  }
+ ]
+}
+{
+ "kanji": "試",
+ "level": 4,
+ "url": "http://jisho.org/search/%E8%A9%A6%20%23kanji",
+ "translations": "test, try, attempt, experiment, ordeal",
+ "kun_readings": [
+  {
+   "reading": "こころ.みる",
+   "url": "http://jisho.org/search/%E8%A9%A6%20%E3%81%93%E3%81%93%E3%82%8D%E3%81%BF%E3%82%8B"
+  },
+  {
+   "reading": "ため.す",
+   "url": "http://jisho.org/search/%E8%A9%A6%20%E3%81%9F%E3%82%81%E3%81%99"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "シ",
+   "url": "http://jisho.org/search/%E8%A9%A6%20%E3%82%B7"
+  }
+ ]
+}
+{
+ "kanji": "悪",
+ "level": 4,
+ "url": "http://jisho.org/search/%E6%82%AA%20%23kanji",
+ "translations": "bad, vice, rascal, false, evil, wrong",
+ "kun_readings": [
+  {
+   "reading": "わる.い",
+   "url": "http://jisho.org/search/%E6%82%AA%20%E3%82%8F%E3%82%8B%E3%81%84"
+  },
+  {
+   "reading": "わる-",
+   "url": "http://jisho.org/search/%E6%82%AA%20%E3%82%8F%E3%82%8B"
+  },
+  {
+   "reading": "あ.し",
+   "url": "http://jisho.org/search/%E6%82%AA%20%E3%81%82%E3%81%97"
+  },
+  {
+   "reading": "にく.い",
+   "url": "http://jisho.org/search/%E6%82%AA%20%E3%81%AB%E3%81%8F%E3%81%84"
+  },
+  {
+   "reading": "-にく.い",
+   "url": "http://jisho.org/search/%E6%82%AA%20%E3%81%AB%E3%81%8F%E3%81%84"
+  },
+  {
+   "reading": "ああ",
+   "url": "http://jisho.org/search/%E6%82%AA%20%E3%81%82%E3%81%82"
+  },
+  {
+   "reading": "いずくに",
+   "url": "http://jisho.org/search/%E6%82%AA%20%E3%81%84%E3%81%9A%E3%81%8F%E3%81%AB"
+  },
+  {
+   "reading": "いずくんぞ",
+   "url": "http://jisho.org/search/%E6%82%AA%20%E3%81%84%E3%81%9A%E3%81%8F%E3%82%93%E3%81%9E"
+  },
+  {
+   "reading": "にく.む",
+   "url": "http://jisho.org/search/%E6%82%AA%20%E3%81%AB%E3%81%8F%E3%82%80"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "アク",
+   "url": "http://jisho.org/search/%E6%82%AA%20%E3%82%A2%E3%82%AF"
+  },
+  {
+   "reading": "オ",
+   "url": "http://jisho.org/search/%E6%82%AA%20%E3%82%AA"
+  }
+ ]
+}
+{
+ "kanji": "験",
+ "level": 4,
+ "url": "http://jisho.org/search/%E9%A8%93%20%23kanji",
+ "translations": "verification, effect, testing",
+ "kun_readings": [
+  {
+   "reading": "あかし",
+   "url": "http://jisho.org/search/%E9%A8%93%20%E3%81%82%E3%81%8B%E3%81%97"
+  },
+  {
+   "reading": "しるし",
+   "url": "http://jisho.org/search/%E9%A8%93%20%E3%81%97%E3%82%8B%E3%81%97"
+  },
+  {
+   "reading": "ため.す",
+   "url": "http://jisho.org/search/%E9%A8%93%20%E3%81%9F%E3%82%81%E3%81%99"
+  },
+  {
+   "reading": "ためし",
+   "url": "http://jisho.org/search/%E9%A8%93%20%E3%81%9F%E3%82%81%E3%81%97"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "ケン",
+   "url": "http://jisho.org/search/%E9%A8%93%20%E3%82%B1%E3%83%B3"
+  },
+  {
+   "reading": "ゲン",
+   "url": "http://jisho.org/search/%E9%A8%93%20%E3%82%B2%E3%83%B3"
+  }
+ ]
+}
+{
+ "kanji": "英",
+ "level": 4,
+ "url": "http://jisho.org/search/%E8%8B%B1%20%23kanji",
+ "translations": "England, English, hero, outstanding, calyx",
+ "kun_readings": [
+  {
+   "reading": "はなぶさ",
+   "url": "http://jisho.org/search/%E8%8B%B1%20%E3%81%AF%E3%81%AA%E3%81%B6%E3%81%95"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "エイ",
+   "url": "http://jisho.org/search/%E8%8B%B1%20%E3%82%A8%E3%82%A4"
+  }
+ ]
+}
+{
+ "kanji": "館",
+ "level": 4,
+ "url": "http://jisho.org/search/%E9%A4%A8%20%23kanji",
+ "translations": "building, mansion, large building, palace",
+ "kun_readings": [
+  {
+   "reading": "やかた",
+   "url": "http://jisho.org/search/%E9%A4%A8%20%E3%82%84%E3%81%8B%E3%81%9F"
+  },
+  {
+   "reading": "たて",
+   "url": "http://jisho.org/search/%E9%A4%A8%20%E3%81%9F%E3%81%A6"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "カン",
+   "url": "http://jisho.org/search/%E9%A4%A8%20%E3%82%AB%E3%83%B3"
+  }
+ ]
+}
+{
+ "kanji": "屋",
+ "level": 4,
+ "url": "http://jisho.org/search/%E5%B1%8B%20%23kanji",
+ "translations": "roof, house, shop, dealer, seller",
+ "kun_readings": [
+  {
+   "reading": "や",
+   "url": "http://jisho.org/search/%E5%B1%8B%20%E3%82%84"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "オク",
+   "url": "http://jisho.org/search/%E5%B1%8B%20%E3%82%AA%E3%82%AF"
+  }
+ ]
+}
+{
+ "kanji": "曜",
+ "level": 4,
+ "url": "http://jisho.org/search/%E6%9B%9C%20%23kanji",
+ "translations": "weekday"
+}
+{
+ "kanji": "質",
+ "level": 4,
+ "url": "http://jisho.org/search/%E8%B3%AA%20%23kanji",
+ "translations": "substance, quality, matter, temperament",
+ "kun_readings": [
+  {
+   "reading": "たち",
+   "url": "http://jisho.org/search/%E8%B3%AA%20%E3%81%9F%E3%81%A1"
+  },
+  {
+   "reading": "ただ.す",
+   "url": "http://jisho.org/search/%E8%B3%AA%20%E3%81%9F%E3%81%A0%E3%81%99"
+  },
+  {
+   "reading": "もと",
+   "url": "http://jisho.org/search/%E8%B3%AA%20%E3%82%82%E3%81%A8"
+  },
+  {
+   "reading": "わりふ",
+   "url": "http://jisho.org/search/%E8%B3%AA%20%E3%82%8F%E3%82%8A%E3%81%B5"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "シツ",
+   "url": "http://jisho.org/search/%E8%B3%AA%20%E3%82%B7%E3%83%84"
+  },
+  {
+   "reading": "シチ",
+   "url": "http://jisho.org/search/%E8%B3%AA%20%E3%82%B7%E3%83%81"
+  },
+  {
+   "reading": "チ",
+   "url": "http://jisho.org/search/%E8%B3%AA%20%E3%83%81"
+  }
+ ]
+}
+{
+ "kanji": "肉",
+ "level": 4,
+ "url": "http://jisho.org/search/%E8%82%89%20%23kanji",
+ "translations": "meat",
+ "kun_readings": [
+  {
+   "reading": "しし",
+   "url": "http://jisho.org/search/%E8%82%89%20%E3%81%97%E3%81%97"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "ニク",
+   "url": "http://jisho.org/search/%E8%82%89%20%E3%83%8B%E3%82%AF"
+  }
+ ]
+}
+{
+ "kanji": "鳥",
+ "level": 4,
+ "url": "http://jisho.org/search/%E9%B3%A5%20%23kanji",
+ "translations": "bird, chicken",
+ "kun_readings": [
+  {
+   "reading": "とり",
+   "url": "http://jisho.org/search/%E9%B3%A5%20%E3%81%A8%E3%82%8A"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "チョウ",
+   "url": "http://jisho.org/search/%E9%B3%A5%20%E3%83%81%E3%83%A7%E3%82%A6"
+  }
+ ]
+}
+{
+ "kanji": "習",
+ "level": 4,
+ "url": "http://jisho.org/search/%E7%BF%92%20%23kanji",
+ "translations": "learn",
+ "kun_readings": [
+  {
+   "reading": "なら.う",
+   "url": "http://jisho.org/search/%E7%BF%92%20%E3%81%AA%E3%82%89%E3%81%86"
+  },
+  {
+   "reading": "なら.い",
+   "url": "http://jisho.org/search/%E7%BF%92%20%E3%81%AA%E3%82%89%E3%81%84"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "シュウ",
+   "url": "http://jisho.org/search/%E7%BF%92%20%E3%82%B7%E3%83%A5%E3%82%A6"
+  },
+  {
+   "reading": "ジュ",
+   "url": "http://jisho.org/search/%E7%BF%92%20%E3%82%B8%E3%83%A5"
+  }
+ ]
+}
+{
+ "kanji": "冬",
+ "level": 4,
+ "url": "http://jisho.org/search/%E5%86%AC%20%23kanji",
+ "translations": "winter",
+ "kun_readings": [
+  {
+   "reading": "ふゆ",
+   "url": "http://jisho.org/search/%E5%86%AC%20%E3%81%B5%E3%82%86"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "トウ",
+   "url": "http://jisho.org/search/%E5%86%AC%20%E3%83%88%E3%82%A6"
+  }
+ ]
+}
+{
+ "kanji": "昼",
+ "level": 4,
+ "url": "http://jisho.org/search/%E6%98%BC%20%23kanji",
+ "translations": "daytime, noon",
+ "kun_readings": [
+  {
+   "reading": "ひる",
+   "url": "http://jisho.org/search/%E6%98%BC%20%E3%81%B2%E3%82%8B"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "チュウ",
+   "url": "http://jisho.org/search/%E6%98%BC%20%E3%83%81%E3%83%A5%E3%82%A6"
+  }
+ ]
+}
+{
+ "kanji": "茶",
+ "level": 4,
+ "url": "http://jisho.org/search/%E8%8C%B6%20%23kanji",
+ "translations": "tea"
+}
+{
+ "kanji": "洋",
+ "level": 4,
+ "url": "http://jisho.org/search/%E6%B4%8B%20%23kanji",
+ "translations": "ocean, sea, foreign, Western style"
+}
+{
+ "kanji": "弟",
+ "level": 4,
+ "url": "http://jisho.org/search/%E5%BC%9F%20%23kanji",
+ "translations": "younger brother, faithful service to elders",
+ "kun_readings": [
+  {
+   "reading": "おとうと",
+   "url": "http://jisho.org/search/%E5%BC%9F%20%E3%81%8A%E3%81%A8%E3%81%86%E3%81%A8"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "テイ",
+   "url": "http://jisho.org/search/%E5%BC%9F%20%E3%83%86%E3%82%A4"
+  },
+  {
+   "reading": "ダイ",
+   "url": "http://jisho.org/search/%E5%BC%9F%20%E3%83%80%E3%82%A4"
+  },
+  {
+   "reading": "デ",
+   "url": "http://jisho.org/search/%E5%BC%9F%20%E3%83%87"
+  }
+ ]
+}
+{
+ "kanji": "旅",
+ "level": 4,
+ "url": "http://jisho.org/search/%E6%97%85%20%23kanji",
+ "translations": "trip, travel",
+ "kun_readings": [
+  {
+   "reading": "たび",
+   "url": "http://jisho.org/search/%E6%97%85%20%E3%81%9F%E3%81%B3"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "リョ",
+   "url": "http://jisho.org/search/%E6%97%85%20%E3%83%AA%E3%83%A7"
+  }
+ ]
+}
+{
+ "kanji": "牛",
+ "level": 4,
+ "url": "http://jisho.org/search/%E7%89%9B%20%23kanji",
+ "translations": "cow",
+ "kun_readings": [
+  {
+   "reading": "うし",
+   "url": "http://jisho.org/search/%E7%89%9B%20%E3%81%86%E3%81%97"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "ギュウ",
+   "url": "http://jisho.org/search/%E7%89%9B%20%E3%82%AE%E3%83%A5%E3%82%A6"
+  }
+ ]
+}
+{
+ "kanji": "映",
+ "level": 4,
+ "url": "http://jisho.org/search/%E6%98%A0%20%23kanji",
+ "translations": "reflect, reflection, projection",
+ "kun_readings": [
+  {
+   "reading": "うつ.る",
+   "url": "http://jisho.org/search/%E6%98%A0%20%E3%81%86%E3%81%A4%E3%82%8B"
+  },
+  {
+   "reading": "うつ.す",
+   "url": "http://jisho.org/search/%E6%98%A0%20%E3%81%86%E3%81%A4%E3%81%99"
+  },
+  {
+   "reading": "は.える",
+   "url": "http://jisho.org/search/%E6%98%A0%20%E3%81%AF%E3%81%88%E3%82%8B"
+  },
+  {
+   "reading": "-ば.え",
+   "url": "http://jisho.org/search/%E6%98%A0%20%E3%81%B0%E3%81%88"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "エイ",
+   "url": "http://jisho.org/search/%E6%98%A0%20%E3%82%A8%E3%82%A4"
+  }
+ ]
+}
+{
+ "kanji": "兄",
+ "level": 4,
+ "url": "http://jisho.org/search/%E5%85%84%20%23kanji",
+ "translations": "elder brother, big brother",
+ "kun_readings": [
+  {
+   "reading": "あに",
+   "url": "http://jisho.org/search/%E5%85%84%20%E3%81%82%E3%81%AB"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "ケイ",
+   "url": "http://jisho.org/search/%E5%85%84%20%E3%82%B1%E3%82%A4"
+  },
+  {
+   "reading": "キョウ",
+   "url": "http://jisho.org/search/%E5%85%84%20%E3%82%AD%E3%83%A7%E3%82%A6"
+  }
+ ]
+}
+{
+ "kanji": "服",
+ "level": 4,
+ "url": "http://jisho.org/search/%E6%9C%8D%20%23kanji",
+ "translations": "clothing, admit, obey, discharge"
+}
+{
+ "kanji": "妹",
+ "level": 4,
+ "url": "http://jisho.org/search/%E5%A6%B9%20%23kanji",
+ "translations": "younger sister",
+ "kun_readings": [
+  {
+   "reading": "いもうと",
+   "url": "http://jisho.org/search/%E5%A6%B9%20%E3%81%84%E3%82%82%E3%81%86%E3%81%A8"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "マイ",
+   "url": "http://jisho.org/search/%E5%A6%B9%20%E3%83%9E%E3%82%A4"
+  }
+ ]
+}
+{
+ "kanji": "駅",
+ "level": 4,
+ "url": "http://jisho.org/search/%E9%A7%85%20%23kanji",
+ "translations": "station"
+}
+{
+ "kanji": "姉",
+ "level": 4,
+ "url": "http://jisho.org/search/%E5%A7%89%20%23kanji",
+ "translations": "elder sister",
+ "kun_readings": [
+  {
+   "reading": "あね",
+   "url": "http://jisho.org/search/%E5%A7%89%20%E3%81%82%E3%81%AD"
+  },
+  {
+   "reading": "はは",
+   "url": "http://jisho.org/search/%E5%A7%89%20%E3%81%AF%E3%81%AF"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "シ",
+   "url": "http://jisho.org/search/%E5%A7%89%20%E3%82%B7"
+  }
+ ]
+}
+{
+ "kanji": "勉",
+ "level": 4,
+ "url": "http://jisho.org/search/%E5%8B%89%20%23kanji",
+ "translations": "exertion, endeavour, encourage, strive, make effort, diligent",
+ "kun_readings": [
+  {
+   "reading": "つと.める",
+   "url": "http://jisho.org/search/%E5%8B%89%20%E3%81%A4%E3%81%A8%E3%82%81%E3%82%8B"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "ベン",
+   "url": "http://jisho.org/search/%E5%8B%89%20%E3%83%99%E3%83%B3"
+  }
+ ]
+}
+{
+ "kanji": "魚",
+ "level": 4,
+ "url": "http://jisho.org/search/%E9%AD%9A%20%23kanji",
+ "translations": "fish",
+ "kun_readings": [
+  {
+   "reading": "うお",
+   "url": "http://jisho.org/search/%E9%AD%9A%20%E3%81%86%E3%81%8A"
+  },
+  {
+   "reading": "さかな",
+   "url": "http://jisho.org/search/%E9%AD%9A%20%E3%81%95%E3%81%8B%E3%81%AA"
+  },
+  {
+   "reading": "-ざかな",
+   "url": "http://jisho.org/search/%E9%AD%9A%20%E3%81%96%E3%81%8B%E3%81%AA"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "ギョ",
+   "url": "http://jisho.org/search/%E9%AD%9A%20%E3%82%AE%E3%83%A7"
+  }
+ ]
+}
+{
+ "kanji": "借",
+ "level": 4,
+ "url": "http://jisho.org/search/%E5%80%9F%20%23kanji",
+ "translations": "borrow, rent",
+ "kun_readings": [
+  {
+   "reading": "か.りる",
+   "url": "http://jisho.org/search/%E5%80%9F%20%E3%81%8B%E3%82%8A%E3%82%8B"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "シャク",
+   "url": "http://jisho.org/search/%E5%80%9F%20%E3%82%B7%E3%83%A3%E3%82%AF"
+  }
+ ]
+}
+{
+ "kanji": "飲",
+ "level": 4,
+ "url": "http://jisho.org/search/%E9%A3%B2%20%23kanji",
+ "translations": "drink, smoke, take",
+ "kun_readings": [
+  {
+   "reading": "の.む",
+   "url": "http://jisho.org/search/%E9%A3%B2%20%E3%81%AE%E3%82%80"
+  },
+  {
+   "reading": "-の.み",
+   "url": "http://jisho.org/search/%E9%A3%B2%20%E3%81%AE%E3%81%BF"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "イン",
+   "url": "http://jisho.org/search/%E9%A3%B2%20%E3%82%A4%E3%83%B3"
+  },
+  {
+   "reading": "オン",
+   "url": "http://jisho.org/search/%E9%A3%B2%20%E3%82%AA%E3%83%B3"
+  }
+ ]
+}
+{
+ "kanji": "堂",
+ "level": 4,
+ "url": "http://jisho.org/search/%E5%A0%82%20%23kanji",
+ "translations": "public chamber, hall"
+}
+{
+ "kanji": "飯",
+ "level": 4,
+ "url": "http://jisho.org/search/%E9%A3%AF%20%23kanji",
+ "translations": "meal, boiled rice",
+ "kun_readings": [
+  {
+   "reading": "めし",
+   "url": "http://jisho.org/search/%E9%A3%AF%20%E3%82%81%E3%81%97"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "ハン",
+   "url": "http://jisho.org/search/%E9%A3%AF%20%E3%83%8F%E3%83%B3"
+  }
+ ]
+}
+{
+ "kanji": "漢",
+ "level": 4,
+ "url": "http://jisho.org/search/%E6%BC%A2%20%23kanji",
+ "translations": "Sino-, China"
+}
+{
+ "kanji": "貸",
+ "level": 4,
+ "url": "http://jisho.org/search/%E8%B2%B8%20%23kanji",
+ "translations": "lend",
+ "kun_readings": [
+  {
+   "reading": "か.す",
+   "url": "http://jisho.org/search/%E8%B2%B8%20%E3%81%8B%E3%81%99"
+  },
+  {
+   "reading": "か.し-",
+   "url": "http://jisho.org/search/%E8%B2%B8%20%E3%81%8B%E3%81%97"
+  },
+  {
+   "reading": "かし-",
+   "url": "http://jisho.org/search/%E8%B2%B8%20%E3%81%8B%E3%81%97"
+  }
+ ],
+ "on_readings": [
+  {
+   "reading": "タイ",
+   "url": "http://jisho.org/search/%E8%B2%B8%20%E3%82%BF%E3%82%A4"
+  }
+ ]
+}

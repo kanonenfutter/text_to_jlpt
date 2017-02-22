@@ -5,8 +5,11 @@ var db = mongoDB.db('mongodb://localhost/mydb?auto_reconnect=true', {
     safe: true
 });
 
-db.bind('n5');
-var n5Collection = db.n5;
+db.bind('kanjis');
+var kanjiCollection = db.kanjis;
+
+/*db.bind('n1');
+var n1Collection = db.n1;*/
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
@@ -41,7 +44,7 @@ router.post('/input', function (req, res, next) {
   var dictdata;
 
   //Retrieve metadata for each JLTP Kanji. Now: N5 only. Projection: Exclude Kunyomi and Onyomi
-  n5Collection.find({"kanji": {$in: splitted}}, {_id: 0, kun_readings: 0, on_readings: 0}).toArray(function(error, results){
+  kanjiCollection.find({"kanji": {$in: splitted}}, {_id: 0, kun_readings: 0, on_readings: 0}).toArray(function(error, results){
     if (error) {
       next(error);
     } else{
